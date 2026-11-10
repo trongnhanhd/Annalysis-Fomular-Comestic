@@ -1,0 +1,11 @@
+{
+  "version": "4.5.2",
+  "generated_on": "2026-11-10",
+  "backend_pytest": {"passed": 81, "failed": 0, "method": "pytest; includes V4.2-V4.5.1 regression + V4.5.2 preview flow"},
+  "frontend_pure_logic": {"assertions_passed": 11, "method": "node frontend/tests/test_form_model.cjs using global TypeScript transpilation"},
+  "frontend_ts_syntax": {"status": "passed", "scope": "TypeScript transpile syntax checks of changed modules, experiments page, layout and Next config", "not_full_typecheck": true},
+  "live_http": {"status": "passed", "health_version": "4.5.2", "endpoint": "POST /api/v4.5/review-draft", "lip_balm_result": "FEASIBLE", "lip_balm_raw_material_sum": 100.0, "unresolved_grade_count": 2},
+  "next_build": {"status": "not_tested", "reason": "npm packages not installed; offline npm install returned ENOTCACHED, registry install previously timed out"},
+  "postgresql_live": {"status": "not_tested", "reason": "no PostgreSQL server/driver in this runtime", "verification_script": "scripts/verify_postgres_v452.py", "safety": "requires dedicated database name ending _test"},
+  "claims": {"clinical_efficacy": "not_evaluated", "legal_approval": "not_evaluated", "manufacturing_approval": false}
+}

@@ -1,0 +1,329 @@
+{
+  "engine_version": "4.4.0",
+  "status": "FEASIBLE",
+  "claim_interpretations": [],
+  "raw_material_total_percent": 100.0,
+  "items": [
+    {
+      "item_id": "base_premix",
+      "group_code": "b_lip",
+      "grade_id": "USER_BASE_01",
+      "display_inci": "Lipid Base chưa rõ thành phần",
+      "percent_example": 43.0,
+      "feasible_interval_percent": [
+        24.5,
+        70.0
+      ],
+      "composition_status": "unknown",
+      "complete_composition": false
+    },
+    {
+      "item_id": "jojoba_oil",
+      "group_code": "lip",
+      "grade_id": null,
+      "display_inci": "Simmondsia Chinensis Seed Oil",
+      "percent_example": 35.0,
+      "feasible_interval_percent": [
+        1.0,
+        40.0
+      ],
+      "composition_status": "user_assumption",
+      "complete_composition": true
+    },
+    {
+      "item_id": "beeswax",
+      "group_code": "cons",
+      "grade_id": null,
+      "display_inci": "Cera Alba",
+      "percent_example": 18.0,
+      "feasible_interval_percent": [
+        5.0,
+        22.0
+      ],
+      "composition_status": "user_assumption",
+      "complete_composition": true
+    },
+    {
+      "item_id": "antioxidant_blend",
+      "group_code": "antiox",
+      "grade_id": null,
+      "display_inci": "Tocopherol blend giả định",
+      "percent_example": 1.5,
+      "feasible_interval_percent": [
+        1.5,
+        2.0
+      ],
+      "composition_status": "unknown",
+      "complete_composition": false
+    },
+    {
+      "item_id": "flavour",
+      "group_code": "flavour",
+      "grade_id": null,
+      "display_inci": "Aroma",
+      "percent_example": 0.5,
+      "feasible_interval_percent": [
+        0.05,
+        1.5
+      ],
+      "composition_status": "user_assumption",
+      "complete_composition": true
+    },
+    {
+      "item_id": "bisabolol",
+      "group_code": "active",
+      "grade_id": null,
+      "display_inci": "Bisabolol",
+      "percent_example": 2.0,
+      "feasible_interval_percent": [
+        0.05,
+        10.0
+      ],
+      "composition_status": "user_assumption",
+      "complete_composition": true
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "active",
+      "percent_example": 2.0,
+      "feasible_interval_percent": [
+        0.05,
+        10.0
+      ],
+      "raw_material_count": 1
+    },
+    {
+      "group_code": "antiox",
+      "percent_example": 1.5,
+      "feasible_interval_percent": [
+        1.5,
+        2.0
+      ],
+      "raw_material_count": 1
+    },
+    {
+      "group_code": "b_lip",
+      "percent_example": 43.0,
+      "feasible_interval_percent": [
+        24.5,
+        70.0
+      ],
+      "raw_material_count": 1
+    },
+    {
+      "group_code": "cons",
+      "percent_example": 18.0,
+      "feasible_interval_percent": [
+        5.0,
+        22.0
+      ],
+      "raw_material_count": 1
+    },
+    {
+      "group_code": "flavour",
+      "percent_example": 0.5,
+      "feasible_interval_percent": [
+        0.05,
+        1.5
+      ],
+      "raw_material_count": 1
+    },
+    {
+      "group_code": "lip",
+      "percent_example": 35.0,
+      "feasible_interval_percent": [
+        1.0,
+        40.0
+      ],
+      "raw_material_count": 1
+    }
+  ],
+  "inci_known_contributions": [
+    {
+      "inci": "aroma",
+      "percent_example_known_contribution": 0.5,
+      "feasible_known_contribution_interval_percent": [
+        0.05,
+        1.5
+      ],
+      "basis": "known_contributions_only"
+    },
+    {
+      "inci": "bisabolol",
+      "percent_example_known_contribution": 2.0,
+      "feasible_known_contribution_interval_percent": [
+        0.05,
+        10.0
+      ],
+      "basis": "known_contributions_only"
+    },
+    {
+      "inci": "cera alba",
+      "percent_example_known_contribution": 18.0,
+      "feasible_known_contribution_interval_percent": [
+        5.0,
+        22.0
+      ],
+      "basis": "known_contributions_only"
+    },
+    {
+      "inci": "simmondsia chinensis seed oil",
+      "percent_example_known_contribution": 35.0,
+      "feasible_known_contribution_interval_percent": [
+        1.0,
+        40.0
+      ],
+      "basis": "known_contributions_only"
+    }
+  ],
+  "unresolved_composition_percent_example": 44.5,
+  "unresolved_composition_feasible_interval_percent": [
+    26.5,
+    72.0
+  ],
+  "fully_resolved_inci": false,
+  "label_order_screening": {
+    "status": "NOT_PROVIDED"
+  },
+  "group_range_references": [
+    {
+      "group_code": "b_lip",
+      "source": "screenshot_reference",
+      "minimum": 0.0,
+      "maximum": 100.0,
+      "count_min": 1,
+      "count_max": 1,
+      "role": "carrier_selector",
+      "hard": true
+    },
+    {
+      "group_code": "lip",
+      "source": "screenshot_reference",
+      "minimum": 0.0,
+      "maximum": 40.0,
+      "count_min": 1,
+      "count_max": 5,
+      "role": "additive_group",
+      "hard": true
+    },
+    {
+      "group_code": "cons",
+      "source": "screenshot_reference",
+      "minimum": 5.0,
+      "maximum": 22.0,
+      "count_min": 1,
+      "count_max": 3,
+      "role": "additive_group",
+      "hard": true
+    },
+    {
+      "group_code": "antiox",
+      "source": "screenshot_reference",
+      "minimum": 1.5,
+      "maximum": 2.0,
+      "count_min": 1,
+      "count_max": 1,
+      "role": "additive_group",
+      "hard": true
+    },
+    {
+      "group_code": "flavour",
+      "source": "screenshot_reference",
+      "minimum": 0.0,
+      "maximum": 1.5,
+      "count_min": 0,
+      "count_max": 3,
+      "role": "additive_group",
+      "hard": true
+    },
+    {
+      "group_code": "active",
+      "source": "screenshot_reference",
+      "minimum": 0.0,
+      "maximum": 10.0,
+      "count_min": 0,
+      "count_max": 3,
+      "role": "additive_group",
+      "hard": true
+    }
+  ],
+  "representative_method": {
+    "mode": "weighted_L1_priors",
+    "user_prior_count": 6,
+    "synthetic_anchor_count": 0,
+    "evidence_status": "ILLUSTRATIVE_ONLY"
+  },
+  "issues": [
+    {
+      "code": "COMPONENT_MODEL_NOT_VERIFIED",
+      "severity": "info",
+      "message_vi": "base_premix: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+      "details": {
+        "status": "unknown"
+      }
+    },
+    {
+      "code": "PREMIX_COMPOSITION_UNRESOLVED",
+      "severity": "review",
+      "message_vi": "base_premix: còn phần thành phần chưa được định lượng, không suy luận INCI hoàn chỉnh.",
+      "details": {}
+    },
+    {
+      "code": "COMPONENT_MODEL_NOT_VERIFIED",
+      "severity": "info",
+      "message_vi": "jojoba_oil: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+      "details": {
+        "status": "user_assumption"
+      }
+    },
+    {
+      "code": "COMPONENT_MODEL_NOT_VERIFIED",
+      "severity": "info",
+      "message_vi": "beeswax: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+      "details": {
+        "status": "user_assumption"
+      }
+    },
+    {
+      "code": "COMPONENT_MODEL_NOT_VERIFIED",
+      "severity": "info",
+      "message_vi": "antioxidant_blend: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+      "details": {
+        "status": "unknown"
+      }
+    },
+    {
+      "code": "PREMIX_COMPOSITION_UNRESOLVED",
+      "severity": "review",
+      "message_vi": "antioxidant_blend: còn phần thành phần chưa được định lượng, không suy luận INCI hoàn chỉnh.",
+      "details": {}
+    },
+    {
+      "code": "COMPONENT_MODEL_NOT_VERIFIED",
+      "severity": "info",
+      "message_vi": "flavour: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+      "details": {
+        "status": "user_assumption"
+      }
+    },
+    {
+      "code": "COMPONENT_MODEL_NOT_VERIFIED",
+      "severity": "info",
+      "message_vi": "bisabolol: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+      "details": {
+        "status": "user_assumption"
+      }
+    },
+    {
+      "code": "RESULT_DEPENDS_ON_ASSUMPTIONS",
+      "severity": "review",
+      "message_vi": "Ít nhất một sơ đồ cấu tử INCI còn giả định hoặc thiếu nguồn chứng thực.",
+      "details": {}
+    }
+  ],
+  "approved_for_manufacturing": false,
+  "regulatory_status": "NOT_ASSESSED",
+  "stability_status": "NOT_TESTED",
+  "range_interpretation": "Feasible under stated assumptions, NOT a measured or market typical concentration."
+}

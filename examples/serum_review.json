@@ -1,0 +1,14 @@
+{
+ "product_type":"Serum nước minh họa", "physical_form":"aqueous",
+ "pH":3.2, "water_phase_percent":60, "preservation_evidence":false,
+ "solubilizer_system_confirmed":false,
+ "items":[
+  {"inci":"Aqua","percent":60,"group_code":"b_water"},
+  {"inci":"Glycerin","percent":20,"group_code":"hum"},
+  {"inci":"Panthenol","percent":5,"group_code":"active"},
+  {"inci":"Allantoin","percent":1,"group_code":"active"},
+  {"inci":"Bisabolol","percent":1,"group_code":"active"},
+  {"inci":"Carbomer","percent":1,"group_code":"thick"},
+  {"inci":"Propanediol","percent":12,"group_code":"solv"}
+ ]
+}

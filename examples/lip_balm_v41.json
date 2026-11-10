@@ -1,0 +1,39 @@
+{
+  "product_id": 1,
+  "product_type": "Son dưỡng môi",
+  "ui_base_display_percent": 100,
+  "note": "Minh họa kiểm tra toán học. Không phải đề xuất công thức an toàn để sản xuất.",
+  "items": [
+    {
+      "ingredient_id": "ING-0031",
+      "group_code": "b_lip",
+      "percent": 40,
+      "inci_name_candidate": "Caprylic/Capric Triglyceride"
+    },
+    {
+      "ingredient_id": "ING-0081",
+      "group_code": "lip",
+      "percent": 36,
+      "inci_name_candidate": "Helianthus Annuus Seed Oil"
+    },
+    {
+      "ingredient_id": "ING-0038",
+      "group_code": "cons",
+      "percent": 22,
+      "inci_name_candidate": "Cera Alba"
+    },
+    {
+      "ingredient_id": "ING-0181",
+      "group_code": "antiox",
+      "percent": 1.5,
+      "grade_id": "GRADE-LIP-TOC-50",
+      "inci_name_candidate": "Tocopherol"
+    },
+    {
+      "ingredient_id": "ING-0008",
+      "group_code": "flavour",
+      "percent": 0.5,
+      "inci_name_candidate": "Aroma"
+    }
+  ]
+}

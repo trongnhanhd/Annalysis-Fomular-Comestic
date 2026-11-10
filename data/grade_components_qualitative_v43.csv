@@ -1,0 +1,13 @@
+﻿grade_id,component_order,component_inci_candidate,mass_fraction_min,mass_fraction_max,concentration_basis,status,must_not_allocate_mass,supplier_source_id
+S43-G-NIP9010,1,Phenoxyethanol,,,unknown,qualitative_composition_only,True,S43-CLAR-NIP
+S43-G-NIP9010,2,Ethylhexylglycerin,,,unknown,qualitative_composition_only,True,S43-CLAR-NIP
+S43-G-K4074,1,Simmondsia Chinensis Seed Oil,,,unknown,qualitative_composition_only,True,S43-KAHL-PRODUCTS
+S43-G-K4074,2,Ricinus Communis Seed Oil,,,unknown,qualitative_composition_only,True,S43-KAHL-PRODUCTS
+S43-G-K4074,3,Rhus Verniciflua Peel Cera,,,unknown,qualitative_composition_only,True,S43-KAHL-PRODUCTS
+S43-G-K4074,4,Kaolin,,,unknown,qualitative_composition_only,True,S43-KAHL-PRODUCTS
+S43-G-K4074,5,Caprylic/Capric Triglyceride,,,unknown,qualitative_composition_only,True,S43-KAHL-PRODUCTS
+S43-G-K4074,6,Copernicia Cerifera Cera,,,unknown,qualitative_composition_only,True,S43-KAHL-PRODUCTS
+S43-G-K4074,7,Euphorbia Cerifera Cera,,,unknown,qualitative_composition_only,True,S43-KAHL-PRODUCTS
+S43-G-K4074,8,Helianthus Annuus Seed Cera,,,unknown,qualitative_composition_only,True,S43-KAHL-PRODUCTS
+S43-G-K4074,9,Tocopherol,,,unknown,qualitative_composition_only,True,S43-KAHL-PRODUCTS
+S43-G-K4074,10,Helianthus Annuus Seed Oil,,,unknown,qualitative_composition_only,True,S43-KAHL-PRODUCTS

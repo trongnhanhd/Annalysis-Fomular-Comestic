@@ -1,0 +1,11 @@
+﻿grade_id,display_name,expected_inci,active_fraction_min,active_fraction_max,carrier_inci,source_id,composition_complete,status,note
+GRADE-LIP-TOC-50,Tocopherol d-alpha 50%,Tocopherol,0.5,0.5,UNRESOLVED,V41-SCREENSHOT-ONLY,false,NEED_COA_AND_FULL_INCI,Label percent is not a complete grade composition
+GRADE-LIP-TOC-70,Tocopherol d-alpha 70%,Tocopherol,0.7,0.7,UNRESOLVED,V41-SCREENSHOT-ONLY,false,NEED_COA_AND_FULL_INCI,Label percent is not a complete grade composition
+GRADE-LIP-TOC-MIX,Tocopherol hỗn hợp,Tocopherol,,,UNRESOLVED,V41-SCREENSHOT-ONLY,false,NEED_COA_AND_FULL_INCI,Label percent is not a complete grade composition
+GRADE-LIP-CERABEL,Cera Bellina wax,Polyglyceryl-3 Beeswax,,,,V41-SCREENSHOT-ONLY,false,NEED_COA_AND_FULL_INCI,Label percent is not a complete grade composition
+GRADE-LIP-PLUMP,Dehydrasome Plump,,,,UNRESOLVED,V41-SCREENSHOT-ONLY,false,NEED_COA_AND_FULL_INCI,Label percent is not a complete grade composition
+GRADE-LIP-ACAI,Acai extract in sunflower oil,,,,Helianthus Annuus Seed Oil (candidate),V41-SCREENSHOT-ONLY,false,NEED_COA_AND_FULL_INCI,Label percent is not a complete grade composition
+GRADE-AQ-ALOE-100X,Aloe juice dilution 100:1,Aloe Barbadensis Leaf Juice,,,Aqua (candidate),V41-SCREENSHOT-ONLY,false,NEED_COA_AND_FULL_INCI,Label percent is not a complete grade composition
+GRADE-AQ-ALOE-200X,Aloe juice dilution 200:1,Aloe Barbadensis Leaf Juice,,,Aqua (candidate),V41-SCREENSHOT-ONLY,false,NEED_COA_AND_FULL_INCI,Label percent is not a complete grade composition
+GRADE-PAN-BASF-75W,D-Panthenol 75 W (supplier portfolio),Panthenol,0.75,0.75,Aqua (and stabilizer: verification needed),SRC-BASF-PORTFOLIO,false,REFERENCE_NEED_CURRENT_COA,Known 75% panthenol; remaining 25% not assigned entirely to Aqua because of citric acid stabilizer
+GRADE-PAN-BASF-50P,D-Panthenol 50 P (supplier portfolio),Panthenol,0.50,0.50,Propylene Glycol (verify grade and COA),SRC-BASF-PORTFOLIO,false,REFERENCE_NEED_CURRENT_COA,Known active assay only. Do not assert remainder is pure carrier.

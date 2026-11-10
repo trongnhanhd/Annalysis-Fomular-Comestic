@@ -1,0 +1,9 @@
+﻿grade_id,display_name,expected_inci,group_code,active_fraction_min,active_fraction_max,assay_evidence,carrier_inci,source_image,review_status
+GRADE-LIP-TOC-50,Tocopherol d-alpha 50%,Tocopherol,antiox,0.5,0.5,screenshot_label_only,UNRESOLVED,Oganic/1. Son dưỡng môi/FireShot Capture 029 -  - [app.createcosmeticformulas.com].png,NEED_COA_AND_FULL_INCI
+GRADE-LIP-TOC-70,Tocopherol d-alpha 70%,Tocopherol,antiox,0.7,0.7,screenshot_label_only,UNRESOLVED,Oganic/1. Son dưỡng môi/FireShot Capture 029 -  - [app.createcosmeticformulas.com].png,NEED_COA_AND_FULL_INCI
+GRADE-LIP-TOC-MIX,Tocopherol hỗn hợp,Tocopherol,antiox,,,screenshot_label_only,UNRESOLVED,Oganic/1. Son dưỡng môi/FireShot Capture 029 -  - [app.createcosmeticformulas.com].png,NEED_COA_AND_FULL_INCI
+GRADE-LIP-CERABEL,Cera Bellina wax,Polyglyceryl-3 Beeswax,cons,,,supplier_tech_sheet,,Oganic/1. Son dưỡng môi/FireShot Capture 028 -  - [app.createcosmeticformulas.com].png,GRADE_SPEC_VERIFICATION
+GRADE-LIP-PLUMP,Dehydrasome Plump,,active,,,screenshot_label_only,UNRESOLVED,Oganic/1. Son dưỡng môi/FireShot Capture 031 -  - [app.createcosmeticformulas.com].png,NEED_FULL_INCI
+GRADE-LIP-ACAI,Acai extract in sunflower oil,,lip,,,screenshot_label_only,Helianthus Annuus Seed Oil (candidate),Oganic/1. Son dưỡng môi/FireShot Capture 027 -  - [app.createcosmeticformulas.com].png,NEED_FULL_INCI
+GRADE-AQ-ALOE-100X,Aloe juice dilution 100:1,Aloe Barbadensis Leaf Juice,wateralt,,,screenshot_label_only,Aqua (candidate),Oganic/3. Sữa tắm bọt/FireShot Capture 039 -  - [app.createcosmeticformulas.com].png,NEED_RECONSTITUTION_PROTOCOL
+GRADE-AQ-ALOE-200X,Aloe juice dilution 200:1,Aloe Barbadensis Leaf Juice,wateralt,,,screenshot_label_only,Aqua (candidate),Oganic/3. Sữa tắm bọt/FireShot Capture 039 -  - [app.createcosmeticformulas.com].png,NEED_RECONSTITUTION_PROTOCOL

@@ -1,0 +1,13 @@
+{
+  "engine_version": "4.4.0",
+  "source_version": "4.3",
+  "product_types_inherited": 33,
+  "functional_groups_inherited": 32,
+  "inci_candidates_inherited": 190,
+  "runtime_optimizer": "scipy.optimize.linprog HiGHS",
+  "scenario_examples": 2,
+  "manufacturer_approval": false,
+  "frontend_build": "NOT_BUILT_NEXT_DEPENDENCY_MISSING",
+  "frontend_route": "/optimizer",
+  "python_test_results": "...............................................                          [100%]\n47 passed in 1.50s"
+}

@@ -1,0 +1,15 @@
+{
+  "product_type": "lip_balm",
+  "physical_form": "anhydrous",
+  "process_intent": "full_melt",
+  "process_temperature_c": 60,
+  "items": [
+    {"inci": "Cera Alba", "grade_id": "S43-G-K8109", "group_code":"consistency", "percent": 10},
+    {"inci": "Euphorbia Cerifera Cera", "grade_id":"S43-G-K2039L", "group_code":"consistency", "percent":5},
+    {"inci": "Simmondsia Chinensis Seed Oil", "group_code":"lipids", "percent":25},
+    {"inci": "Butyrospermum Parkii Butter", "group_code":"lipids", "percent":20},
+    {"inci": "Ricinus Communis Seed Oil", "group_code":"lipids", "percent":38.5},
+    {"inci": "Tocopherol", "group_code":"antioxidant", "percent":0.5},
+    {"inci": "Bisabolol", "group_code":"actives", "percent":1}
+  ]
+}

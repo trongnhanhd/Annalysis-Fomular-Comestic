@@ -1,0 +1,118 @@
+name: V4.5.2 stabilization gates A-B-C and R3 local auth
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'frontend/**'
+      - '*.py'
+      - 'scripts/**'
+      - 'migrations/**'
+      - 'requirements*.txt'
+      - '.github/workflows/stabilization-v452.yml'
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    services:
+      postgres:
+        image: postgres:17-alpine
+        env:
+          POSTGRES_USER: formula_ci
+          POSTGRES_PASSWORD: local_ci_password_only
+          POSTGRES_DB: formula_ci_test
+        ports: ['5432:5432']
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 12
+    env:
+      TEST_POSTGRES_URL: postgresql+psycopg://formula_ci:local_ci_password_only@127.0.0.1:5432/formula_ci_test
+      V45_DATABASE_URL: postgresql+psycopg://formula_ci:local_ci_password_only@127.0.0.1:5432/formula_ci_test
+      RND_API_INTERNAL_URL: http://127.0.0.1:8000
+      NEXT_TELEMETRY_DISABLED: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install backend + browser test dependencies
+        run: python -m pip install -r requirements.txt -r requirements-postgres.txt 'playwright>=1.50,<2'
+      - name: Run backend unit and contract tests
+        run: |
+          set +e
+          python -m pytest -q -rfE --tb=short 2>&1 | tee /tmp/pytest_v452.log
+          status=${PIPESTATUS[0]}
+          grep -E '^(FAILED|ERROR) ' /tmp/pytest_v452.log | sed 's/^/::error::/'
+          test "$status" -eq 0 || exit "$status"
+          python scripts/check_frontend_api_contract_r4.py
+      - name: Migrate dedicated PostgreSQL test database
+        run: python scripts/apply_test_migrations_v452.py
+      - name: Verify PostgreSQL write/read and immutable audit trail
+        run: python scripts/verify_postgres_v452.py
+      - name: Install frontend dependencies reproducibly (lockfile required)
+        working-directory: frontend
+        run: |
+          test -f package-lock.json || { echo "BLOCKED: commit frontend/package-lock.json first"; exit 1; }
+          npm ci --no-audit --no-fund
+          node tests/test_form_model.cjs
+          npm run build
+      - name: Archive resolved dependency versions for review
+        working-directory: frontend
+        run: npm ls --depth=0 > ../RESOLVED_NPM_VERSIONS.txt
+      - name: Install Playwright Chromium
+        run: python -m playwright install --with-deps chromium
+      - name: Bootstrap ephemeral R&D editor for authenticated browser smoke
+        run: |
+          python - <<'PY_BOOTSTRAP'
+          import os, secrets
+          from auth_r3 import create_user
+          password = secrets.token_urlsafe(24)
+          os.environ['RND_AUTH_DB_PATH'] = '/tmp/formula_auth_ci.sqlite3'
+          create_user('r3_ci_editor', password, 'editor')
+          with open(os.environ['GITHUB_ENV'],'a',encoding='utf-8') as f:
+              f.write('RND_AUTH_MODE=required\n')
+              f.write('RND_AUTH_DB_PATH=/tmp/formula_auth_ci.sqlite3\n')
+              f.write('RND_SMOKE_USERNAME=r3_ci_editor\n')
+              f.write('RND_SMOKE_PASSWORD='+password+'\n')
+          PY_BOOTSTRAP
+      - name: Start real FastAPI and Next.js servers
+        run: |
+          python -m uvicorn api_v45:app --host 127.0.0.1 --port 8000 > /tmp/formula_api.log 2>&1 &
+          echo $! > /tmp/formula_api.pid
+          (cd frontend && npm run start -- --hostname 127.0.0.1 --port 3000 > /tmp/formula_web.log 2>&1 &)
+          for i in {1..40}; do
+            if curl --silent --fail http://127.0.0.1:8000/health/v4.5 >/dev/null && curl --silent --fail http://127.0.0.1:3000/experiments >/dev/null; then exit 0; fi
+            sleep 2
+          done
+          cat /tmp/formula_api.log /tmp/formula_web.log
+          exit 1
+      - name: Run Chromium browser smoke via authenticated /backend rewrite
+        run: python scripts/browser_smoke_v452.py
+      - name: Upload logs and screenshot on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: stabilization-v452-diagnostics
+          path: |
+            /tmp/formula_api.log
+            /tmp/formula_web.log
+            /tmp/pytest_v452.log
+            /tmp/formula-intelligence-browser-smoke/**
+          if-no-files-found: ignore
+      - name: Upload dependency version report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: stabilization-v452-dependency-report
+          path: |
+            RESOLVED_NPM_VERSIONS.txt
+            frontend/package-lock.json
+          if-no-files-found: ignore

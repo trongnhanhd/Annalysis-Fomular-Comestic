@@ -1,0 +1,17 @@
+{
+  "title":"Claim PAD 8%: phân biệt nồng độ dung dịch thương mại và PAD thành phẩm",
+  "template_mode":"advisory",
+  "product_type":"acid_serum_hypothetical",
+  "physical_form":"aqueous",
+  "items":[
+    {"item_id":"pg","inci":"Propylene Glycol","group_code":"solvent","percent_bounds":{"min":15,"max":45},"prior_percent":30,"composition":{"status":"user_assumption","complete":true,"components":[{"inci":"Propylene Glycol","fraction_min":1,"fraction_max":1}]}},
+    {"item_id":"mpd","inci":"Methylpropanediol","group_code":"solvent","percent_bounds":{"min":15,"max":45},"prior_percent":25,"composition":{"status":"user_assumption","complete":true,"components":[{"inci":"Methylpropanediol","fraction_min":1,"fraction_max":1}]}},
+    {"item_id":"mandelic","inci":"Mandelic Acid","group_code":"acid","percent_bounds":{"min":15,"max":15},"prior_percent":15,"composition":{"status":"user_assumption","complete":true,"components":[{"inci":"Mandelic Acid","fraction_min":1,"fraction_max":1}]}},
+    {"item_id":"aqua","inci":"Aqua","group_code":"carrier","percent_bounds":{"min":0.01,"max":25},"prior_percent":18,"composition":{"status":"user_assumption","complete":true,"components":[{"inci":"Aqua","fraction_min":1,"fraction_max":1}]}},
+    {"item_id":"pad_grade","grade_id":"HYPOTHETICAL_PAD_30","inci":"Potassium Azeloyl Diglycinate solution","group_code":"active","percent_bounds":{"min":0.1,"max":30},"prior_percent":8,"composition":{"status":"user_assumption","complete":true,"components":[{"inci":"Potassium Azeloyl Diglycinate","fraction_min":0.3,"fraction_max":0.3},{"inci":"Aqua","fraction_min":0.7,"fraction_max":0.7}]}},
+    {"item_id":"tea","inci":"Triethanolamine","group_code":"pH_adjuster","percent_bounds":{"min":0.01,"max":4},"prior_percent":4,"composition":{"status":"user_assumption","complete":true,"components":[{"inci":"Triethanolamine","fraction_min":1,"fraction_max":1}]}}
+  ],
+  "claims":[{"basis":"finished_inci","inci":"Mandelic Acid","percent":15}],
+  "ambiguous_claims":[{"percent":8,"interpretations":[{"basis":"raw_material","item_id":"pad_grade"},{"basis":"finished_inci","inci":"Potassium Azeloyl Diglycinate"}]}],
+  "label_inci_order":["Propylene Glycol","Methylpropanediol","Mandelic Acid","Aqua","Potassium Azeloyl Diglycinate","Triethanolamine"]
+}

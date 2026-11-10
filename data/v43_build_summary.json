@@ -1,0 +1,10 @@
+{
+  "inherited_master_inci": 190,
+  "new_inci_candidates_not_in_master": [
+    "Oryza Sativa Bran Cera"
+  ],
+  "supplier_grade_reference_count": 11,
+  "property_observations": 22,
+  "qualitative_premix_components": 12,
+  "evidence_model": "grade-specific; no global numeric ranges; no legal status inferred"
+}

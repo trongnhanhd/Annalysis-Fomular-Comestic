@@ -1,0 +1,9 @@
+﻿source_id,source_title,source_url,source_type,scope,checked_date,evidence_status
+S43-KAHL-WAX,"KAHL World — Technical data sheets, product reference",https://www.kahlworld.com/news/download-category/technical-data-sheets/,supplier_product_web,"Waxes, melting point and recommended use for exact grades",2026-11-09,supplier_page_checked
+S43-KAHL-2442L,KAHL World — KahlWax 2442L Carnauba,https://www.kahlworld.com/divi_overlay/kahlwax-2442l-carnauba/,supplier_product_web,Carnauba grade 2442L,2026-11-09,supplier_page_checked
+S43-KAHL-PRODUCTS,KAHL World — Product catalogue,https://www.kahlworld.com/products/,supplier_product_web,"Rice wax, hydrogenated castor oil, KahlBase 4074 and qualitative INCI",2026-11-09,supplier_page_checked
+S43-LUB-1342,Lubrizol — Carbopol 1342,https://www.lubrizol.com/solutions/products/beauty/detail-pages/carbopol-1342-polymer,supplier_product_web,"Carbopol 1342 grade, as supplied",2026-11-09,supplier_page_checked
+S43-ASH-NATROSOL,Ashland — Natrosol HEC (personal care/oral care),https://origin-www.ashland.com/industries/personal-and-home-care/oral-care/natrosol-hydroxyethylcellulose,supplier_product_web,"Hydroxyethylcellulose grade family, non-ionic, water solubility",2026-11-09,supplier_page_checked
+S43-CLAR-VELSAN,Clariant — Velsan CLC,https://www.clariant.com/en/Products/Velsan-CLC,supplier_product_web,"Caprylyl Glycol specific grade with good water solubility, preservation booster",2026-11-09,supplier_page_checked
+S43-CLAR-NIP,Clariant — Nipaguard PE 9010,https://www.clariant.com/en/products/nipaguard-pe-9010-1,supplier_product_web,Phenoxyethanol/Ethylhexylglycerin blend; stability up to pH 12,2026-11-09,supplier_page_checked
+V42-LEGACY,Formula Intelligence V4.2 inherited internal dataset,,prior_dataset,190 candidate INCI; 4 supplier-scoped properties inherited; original sources remain in source_registry.csv,2026-11-09,prior_dataset_only

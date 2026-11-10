@@ -1,0 +1,142 @@
+{
+  "scenario": {
+    "title": "Son dưỡng môi: dải tham chiếu từ bộ Oganic",
+    "product_id": 1,
+    "template_mode": "strict",
+    "product_type": "Lip Balm",
+    "physical_form": "anhydrous",
+    "ui_base_display_percent": 100,
+    "items": [
+      {
+        "item_id": "base_premix",
+        "grade_id": "USER_BASE_01",
+        "inci": "Lipid Base chưa rõ thành phần",
+        "group_code": "b_lip",
+        "percent_bounds": {
+          "min": 20,
+          "max": 70
+        },
+        "prior_percent": 43,
+        "composition": {
+          "status": "unknown",
+          "complete": false,
+          "components": []
+        }
+      },
+      {
+        "item_id": "jojoba_oil",
+        "inci": "Simmondsia Chinensis Seed Oil",
+        "group_code": "lip",
+        "percent_bounds": {
+          "min": 1,
+          "max": 40
+        },
+        "prior_percent": 35,
+        "composition": {
+          "status": "user_assumption",
+          "complete": true,
+          "components": [
+            {
+              "inci": "Simmondsia Chinensis Seed Oil",
+              "fraction_min": 1,
+              "fraction_max": 1
+            }
+          ]
+        }
+      },
+      {
+        "item_id": "beeswax",
+        "inci": "Cera Alba",
+        "group_code": "cons",
+        "percent_bounds": {
+          "min": 5,
+          "max": 22
+        },
+        "prior_percent": 18,
+        "composition": {
+          "status": "user_assumption",
+          "complete": true,
+          "components": [
+            {
+              "inci": "Cera Alba",
+              "fraction_min": 1,
+              "fraction_max": 1
+            }
+          ]
+        }
+      },
+      {
+        "item_id": "antioxidant_blend",
+        "inci": "Tocopherol blend giả định",
+        "group_code": "antiox",
+        "percent_bounds": {
+          "min": 1.5,
+          "max": 2
+        },
+        "prior_percent": 1.5,
+        "composition": {
+          "status": "unknown",
+          "complete": false,
+          "components": []
+        }
+      },
+      {
+        "item_id": "flavour",
+        "inci": "Aroma",
+        "group_code": "flavour",
+        "percent_bounds": {
+          "min": 0.05,
+          "max": 1.5
+        },
+        "prior_percent": 0.5,
+        "composition": {
+          "status": "user_assumption",
+          "complete": true,
+          "components": [
+            {
+              "inci": "Aroma",
+              "fraction_min": 1,
+              "fraction_max": 1
+            }
+          ]
+        }
+      },
+      {
+        "item_id": "bisabolol",
+        "inci": "Bisabolol",
+        "group_code": "active",
+        "percent_bounds": {
+          "min": 0.05,
+          "max": 10
+        },
+        "prior_percent": 2,
+        "composition": {
+          "status": "user_assumption",
+          "complete": true,
+          "components": [
+            {
+              "inci": "Bisabolol",
+              "fraction_min": 1,
+              "fraction_max": 1
+            }
+          ]
+        }
+      }
+    ],
+    "label_inci_order": [],
+    "claims": []
+  },
+  "variables": [
+    {
+      "item_id": "beeswax",
+      "low": 16,
+      "high": 20
+    },
+    {
+      "item_id": "jojoba_oil",
+      "low": 30,
+      "high": 38
+    }
+  ],
+  "balance_item_id": "base_premix"
+}

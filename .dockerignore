@@ -1,0 +1,14 @@
+.git
+frontend/node_modules
+frontend/.next
+__pycache__
+.pytest_cache
+*.sqlite3
+*.zip
+*.xlsx
+var/
+
+.env
+.env.local
+.env.production
+*.pem

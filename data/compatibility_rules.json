@@ -1,0 +1,58 @@
+[
+  {
+    "rule_id": "PH_OUTSIDE_SUPPLIER_REFERENCE",
+    "severity": "review",
+    "source": "ingredient_properties.csv",
+    "statement_vi": "pH dự kiến nằm ngoài khoảng khuyến nghị đã có nguồn cho grade; cần xác minh tính phù hợp",
+    "test_type": "ingredient_ph_range"
+  },
+  {
+    "rule_id": "PH_NOT_PROVIDED",
+    "severity": "info",
+    "source": "ingredient_properties.csv",
+    "statement_vi": "Thiếu pH thành phẩm để đánh giá dữ liệu pH của nguyên liệu",
+    "test_type": "missing_measurement"
+  },
+  {
+    "rule_id": "ANHYDROUS_HYDROPHILIC_INGREDIENT",
+    "severity": "review",
+    "source": "supplier_documented",
+    "statement_vi": "Hệ khan chứa nguyên liệu có tính tan nước; cần kiểm tra phân tán/hòa tan thực tế",
+    "test_type": "phase_review"
+  },
+  {
+    "rule_id": "OIL_SOLUBLE_IN_AQUEOUS_ONLY_SYSTEM",
+    "severity": "review",
+    "source": "supplier_documented",
+    "statement_vi": "Hệ nước không ghi nhận pha dầu hoặc chất hòa tan với nguyên liệu tan dầu; cần xác minh hệ mang",
+    "test_type": "phase_review"
+  },
+  {
+    "rule_id": "ALLANTOIN_AQUEOUS_SOLUBILITY_SCREEN",
+    "severity": "review",
+    "source": "SRC-ALLANTOIN-MERCK",
+    "statement_vi": "Tỷ lệ Allantoin trên lượng nước vượt tham chiếu độ tan 25°C; cần kiểm tra thực nghiệm",
+    "test_type": "screening_ratio_not_product_failure"
+  },
+  {
+    "rule_id": "GRADE_COMPOSITION_UNRESOLVED",
+    "severity": "review",
+    "source": "commercial_grade_models.csv",
+    "statement_vi": "Grade thương mại chưa có bảng cấu tử hoàn chỉnh; không tính INCI cuối cùng chính xác",
+    "test_type": "grade_expansion"
+  },
+  {
+    "rule_id": "PRESERVATION_ASSESSMENT_NEEDED",
+    "severity": "review",
+    "source": "SRC-ISO11930",
+    "statement_vi": "Công thức có pha nước chưa có bằng chứng đánh giá bảo quản; lên kế hoạch kiểm tra phù hợp",
+    "test_type": "microbiology_review"
+  },
+  {
+    "rule_id": "CARBOMER_GRADE_NEEDS_PROCESS_DATA",
+    "severity": "review",
+    "source": "SRC-CARBOMER-LUBRIZOL",
+    "statement_vi": "Độ nhớt Carbomer phụ thuộc grade và điều kiện trung hòa; cần grade, pH, điện giải",
+    "test_type": "grade_specific"
+  }
+]

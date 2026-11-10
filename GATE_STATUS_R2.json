@@ -1,0 +1,34 @@
+{
+  "version": "V4.5.2-R2",
+  "date": "2026-11-10",
+  "freeze_features": true,
+  "backend_pytest": {
+    "passed": 97,
+    "total": 97,
+    "status": "PASS"
+  },
+  "frontend_form_assertions": {
+    "passed": 11,
+    "total": 11,
+    "status": "PASS"
+  },
+  "frontend_next_build": {
+    "status": "BLOCKED",
+    "reason": "npm registry EAI_AGAIN; dependencies unavailable"
+  },
+  "postgresql_live": {
+    "status": "NOT_TESTED",
+    "reason": "No PostgreSQL binary/server in current environment"
+  },
+  "chromium_e2e": {
+    "status": "NOT_TESTED",
+    "reason": "Next server cannot start until dependencies installed"
+  },
+  "external_ci": {
+    "status": "PREPARED_NOT_RUN"
+  },
+  "auth_rbac": {
+    "status": "NOT_IMPLEMENTED"
+  },
+  "production_ready": false
+}

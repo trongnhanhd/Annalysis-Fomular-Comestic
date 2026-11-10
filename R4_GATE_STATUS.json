@@ -1,0 +1,38 @@
+{
+  "version": "V4.5.2-R4",
+  "backend_tests": {
+    "passed": 106,
+    "total": 106
+  },
+  "frontend_form_assertions": 11,
+  "api_contract": {
+    "status": "PASS",
+    "ui_api_contracts": 22,
+    "openapi_paths": 25,
+    "notes": "Static API contract only, not Next build or HTTP E2E"
+  },
+  "environment_gates": {
+    "gate_a": {
+      "node_version": "v22.16.0",
+      "npm_available": true,
+      "lockfile_present": false,
+      "next_installed": false,
+      "status": "NOT_VERIFIED",
+      "required": "npm ci; npm run build; Chromium E2E"
+    },
+    "gate_c": {
+      "postgres_server_local": false,
+      "test_postgres_url_configured": false,
+      "status": "NOT_VERIFIED",
+      "required": "migration 001/002 on *_test DB; read/write; backup/restore"
+    },
+    "gate_d": {
+      "auth_mode": "disabled",
+      "status": "PROTOTYPE_ONLY",
+      "required": "production RBAC/CSRF/audit/HTTPS and review"
+    }
+  },
+  "frontend_build": "BLOCKED",
+  "postgres_e2e": "NOT_RUN",
+  "public_deployment": "NOT_APPROVED"
+}

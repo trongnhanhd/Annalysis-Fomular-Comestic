@@ -1,0 +1,30 @@
+{
+  "release": "V4.5.2-R3",
+  "status": "INTERNAL_PROTOTYPE_NOT_PRODUCTION",
+  "python_tests": {
+    "passed": 104,
+    "total": 104
+  },
+  "node_form_assertions": {
+    "passed": 11,
+    "total": 11
+  },
+  "actual_http_smoke": {
+    "health": 200,
+    "anonymous_read": 401,
+    "login": 200,
+    "authorized_read": 200,
+    "viewer_write": 403,
+    "logout": 200,
+    "revoked_read": 401
+  },
+  "typescript_syntax_files": 11,
+  "ci_yaml_parse": "PASS_15_STEPS",
+  "next_build": "BLOCKED_MISSING_NPM_DEPENDENCIES",
+  "postgresql_live": "BLOCKED_NO_SERVER",
+  "browser_e2e": "BLOCKED_NEEDS_NEXT_BUILD",
+  "auth": "LOCAL_PROTOTYPE_OPT_IN_NOT_PRODUCTION",
+  "gate_a": "OPEN",
+  "gate_c": "OPEN",
+  "gate_d": "OPEN"
+}
