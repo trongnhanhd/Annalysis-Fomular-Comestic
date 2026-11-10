@@ -1,0 +1,43 @@
+# Local-only evaluation stack. Supply your own credentials in .env.
+services:
+  db:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: formula_rd
+      POSTGRES_USER: formula_rd
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Copy .env.example and set POSTGRES_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./migrations/001_v451_init.sql:/docker-entrypoint-initdb.d/001_v451_init.sql:ro
+      - ./migrations/002_v452_traceability.sql:/docker-entrypoint-initdb.d/002_v452_traceability.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U formula_rd -d formula_rd"]
+      interval: 5s
+      retries: 20
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    environment:
+      V45_DATABASE_URL: postgresql+psycopg://formula_rd:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD}@db:5432/formula_rd
+      RND_AUTH_MODE: ${RND_AUTH_MODE:-required}
+      RND_AUTH_DB_PATH: /app/var/auth_r3.sqlite3
+      RND_AUTH_ALLOWED_ORIGINS: ${RND_AUTH_ALLOWED_ORIGINS:-http://localhost:3000,http://127.0.0.1:3000}
+      RND_AUTH_COOKIE_SECURE: ${RND_AUTH_COOKIE_SECURE:-false}
+    volumes:
+      - auth_data:/app/var
+    depends_on:
+      db:
+        condition: service_healthy
+    # Internal only. No public port: Next.js proxies /backend/* to this service.
+  web:
+    build: ./frontend
+    environment:
+      RND_API_INTERNAL_URL: http://api:8000
+    depends_on:
+      - api
+    ports:
+      - "127.0.0.1:3000:3000"
+volumes:
+  postgres_data:
+  auth_data:

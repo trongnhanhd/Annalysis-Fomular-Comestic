@@ -1,0 +1,10 @@
+Formula Intelligence V4.3 — QA, 09/11/2026
+
+- Python compatibility engine V4.2 regression + new V4.3 tests:
+  29 passed in 0.40s.
+- FastAPI TestClient smoke tests: PASS.
+- Data assertions: 190 inherited INCI; 390 inherited group rules; 11 new supplier grade references; 22 source-scoped observations; 12 qualitative premix component labels.
+- JSON scenario: 100.0% mass balance, 2 process-temperature screening warnings as expected.
+- Workbook: created and inspected summary values 190, 11, 22, 12, 1.
+- Frontend build: NOT VERIFIED. `npm install --offline` failed ENOTCACHED because @types/node was unavailable in local npm cache. Needs npm install/build in connected environment.
+- Scientific approval, regulatory compliance, preservation and stability: NOT ASSESSED.

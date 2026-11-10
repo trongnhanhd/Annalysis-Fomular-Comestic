@@ -1,0 +1,191 @@
+﻿ingredient_id,inci_name_candidate,v41_phase_candidate,phase,solubility_water,solubility_oil,water_solubility_percent_25c,ph_min,ph_max,temperature_note,evidence_id,grade_scope,property_status,regulatory_status,laboratory_verification
+ING-0001,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0002,Allantoin,water_limited,water,limited,insoluble,0.6,4,9,Avoid prolonged boiling/strong alkaline treatment per supplier,SRC-ALLANTOIN-MERCK,RonaCare Allantoin supplier grade,supplier_grade_reference,not_assessed,required
+ING-0003,Aloe Barbadensis Leaf Extract,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0004,Aloe Barbadensis Leaf Juice,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0005,Aqua,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0006,Argania Spinosa Kernel Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0007,Arginine,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0008,Aroma,grade_dependent,,,,,,,,,,not_assessed,not_assessed,required
+ING-0009,Ascorbic Acid,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0010,Ascorbyl Palmitate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0011,Avena Sativa Kernel Extract,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0012,Azelaic Acid,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0013,BHT,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0014,Bambusa Arundinacea Stem Powder,solid,,,,,,,,,,not_assessed,not_assessed,required
+ING-0015,Behentrimonium Chloride,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0016,Behentrimonium Methosulfate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0017,Behenyl Alcohol,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0018,Bentonite,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0019,Benzyl Alcohol,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0020,Betaine,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0021,Bisabolol,oil,oil,insoluble,soluble,,,,,SRC-BASF-PORTFOLIO,BASF bisabolol grades in portfolio,supplier_grade_reference,not_assessed,required
+ING-0022,Butylene Glycol,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0023,Butyrospermum Parkii Butter,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0024,CI 77491,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0025,CI 77492,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0026,CI 77499,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0027,Caffeine,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0028,Calamine,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0029,Calendula Officinalis Flower Extract,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0030,Camellia Sinensis Leaf Extract,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0031,Caprylic/Capric Triglyceride,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0032,Caprylyl Glycol,both,,,,,,,,,,not_assessed,not_assessed,required
+ING-0033,Caprylyl/Capryl Glucoside,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0034,Carbomer,water,water,dispersible_neutralization_dependent,,,,,Viscosity and neutralization performance depend on grade,SRC-CARBOMER-LUBRIZOL,"Generic grade family, not a verified universal pH range",grade_specific_review,not_assessed,required
+ING-0035,Carrageenan,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0036,Cellulose,solid,,,,,,,,,,not_assessed,not_assessed,required
+ING-0037,Centella Asiatica Extract,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0038,Cera Alba,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0039,Ceramide NP,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0040,Cetearyl Alcohol,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0041,Cetearyl Glucoside,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0042,Cetearyl Olivate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0043,Cetrimonium Chloride,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0044,Cetyl Alcohol,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0045,Chamomilla Recutita Flower Extract,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0046,Chamomilla Recutita Flower Water,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0047,Charcoal Powder,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0048,Chlorphenesin,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0049,Citric Acid,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0050,Citrus Aurantium Amara Flower Water,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0051,Citrus Aurantium Dulcis Peel Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0052,Citrus Limon Peel Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0053,Cocamidopropyl Betaine,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0054,Cocamidopropyl Hydroxysultaine,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0055,Coco-Betaine,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0056,Coco-Caprylate/Caprate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0057,Coco-Glucoside,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0058,Cocos Nucifera Fruit Juice,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0059,Cocos Nucifera Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0060,Copernicia Cerifera Cera,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0061,Cucumis Sativus Fruit Extract,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0062,Decyl Glucoside,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0063,Dehydroacetic Acid,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0064,Dicaprylyl Carbonate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0065,Disodium Cocoamphodiacetate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0066,Disodium Cocoyl Glutamate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0067,Disodium EDTA,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0068,Disodium Laureth Sulfosuccinate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0069,Disteardimonium Hectorite,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0070,Distearoylethyl Dimonium Chloride,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0071,Echinacea Purpurea Extract,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0072,Euphorbia Cerifera Cera,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0073,Gluconolactone,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0074,Glycerin,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0075,Glyceryl Caprylate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0076,Glyceryl Oleate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0077,Glyceryl Stearate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0078,Glyceryl Stearate Citrate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0079,Glycyrrhiza Glabra Root Extract,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0080,Hamamelis Virginiana Water,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0081,Helianthus Annuus Seed Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0082,Hydrated Silica,solid,,,,,,,,,,not_assessed,not_assessed,required
+ING-0083,Hydrogenated Castor Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0084,Hydrogenated Vegetable Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0085,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0086,Hydroxyethyl Urea,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0087,Hydroxyethylcellulose,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0088,Hydroxypropyl Starch Phosphate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0089,Illite,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0090,Kaolin,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0091,Lactic Acid,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0092,Lauryl Glucoside,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0093,Lavandula Angustifolia Flower Water,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0094,Lavandula Angustifolia Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0095,Lecithin,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0096,Macadamia Ternifolia Seed Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0097,Magnesium Sulfate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0098,Mandelic Acid,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0099,Mangifera Indica Seed Butter,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0100,Mentha Piperita Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0101,Mentha Viridis Leaf Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0102,Methylpropanediol,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0103,Mica,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0104,Montmorillonite,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0105,Moroccan Lava Clay,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0106,Myristica Fragrans Fruit Wax,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0107,Niacinamide,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0108,Olea Europaea Fruit Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0109,Oryza Sativa Powder,solid,,,,,,,,,,not_assessed,not_assessed,required
+ING-0110,PEG-100 Stearate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0111,PEG-40 Hydrogenated Castor Oil,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0112,PEG-7 Glyceryl Cocoate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0113,Panax Ginseng Root Extract,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0114,Panthenol,water,water,soluble,,,,,Dexpanthenol source supports water solubility; heat constraints require grade confirmation,SRC-PANTHENOL-BASF,Dexpanthenol Ph.Eur.; apply to cosmetic grade with verification,supplier_grade_reference,not_assessed,required
+ING-0115,Pentylene Glycol,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0116,Persea Gratissima Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0117,Phenoxyethanol,both,,,,,,,,,,not_assessed,not_assessed,required
+ING-0118,Polyacrylate Crosspolymer-6,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0119,Polyglyceryl-10 Laurate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0120,Polyglyceryl-10 Stearate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0121,Polyglyceryl-2 Dipolyhydroxystearate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0122,Polyglyceryl-3 Beeswax,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0123,Polyglyceryl-3 Diisostearate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0124,Polyglyceryl-4 Caprate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0125,Polyglyceryl-6 Distearate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0126,Polyglyceryl-6 Stearate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0127,Polysorbate 20,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0128,Potassium Azeloyl Diglycinate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0129,Potassium Cetyl Phosphate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0130,Potassium Hydroxide,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0131,Potassium Sorbate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0132,Propanediol,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0133,Propylene Glycol,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0134,Prunus Amygdalus Dulcis Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0135,Prunus Armeniaca Kernel Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0136,Pumice,solid,,,,,,,,,,not_assessed,not_assessed,required
+ING-0137,Retinol,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0138,Ricinus Communis Seed Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0139,Rosa Damascena Flower Water,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0140,Rosmarinus Officinalis Leaf Extract,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0141,Salicylic Acid,requires_solubilization,,,,,,,,,,not_assessed,not_assessed,required
+ING-0142,Sclerotium Gum,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0143,Silica Dimethyl Silylate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0144,Simmondsia Chinensis Seed Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0145,Sodium Anisate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0146,Sodium Ascorbyl Phosphate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0147,Sodium Benzoate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0148,Sodium Cetearyl Sulfate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0149,Sodium Chloride,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0150,Sodium Citrate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0151,Sodium Coco-Sulfate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0152,Sodium Cocoamphoacetate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0153,Sodium Cocoyl Glutamate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0154,Sodium Cocoyl Isethionate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0155,Sodium Gluconate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0156,Sodium Hyaluronate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0157,Sodium Hydroxide,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0158,Sodium Lactate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0159,Sodium Lauroyl Lactylate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0160,Sodium Lauroyl Sarcosinate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0161,Sodium Levulinate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0162,Sodium Methyl Cocoyl Taurate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0163,Sodium PCA,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0164,Sodium Phytate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0165,Sodium Polyacryloyldimethyl Taurate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0166,Sodium Stearoyl Glutamate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0167,Sodium Stearoyl Lactylate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0168,Sorbitan Isostearate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0169,Sorbitan Oleate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0170,Sorbitan Olivate,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0171,Sorbitol,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0172,Squalane,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0173,Stearamidopropyl Dimethylamine,interface,,,,,,,,,,not_assessed,not_assessed,required
+ING-0174,Stearic Acid,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0175,Sucrose,water_solid,,,,,,,,,,not_assessed,not_assessed,required
+ING-0176,Synthetic Fluorphlogopite,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0177,Tetrasodium EDTA,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0178,Theobroma Cacao Seed Butter,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0179,Tin Oxide,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0180,Titanium Dioxide,dispersed_solid,,,,,,,,,,not_assessed,not_assessed,required
+ING-0181,Tocopherol,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0182,Tocopheryl Acetate,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0183,Triethanolamine,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0184,Trisodium Ethylenediamine Disuccinate,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0185,Urea,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0186,Vanilla Planifolia Fruit Extract,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0187,Vitis Vinifera Seed Oil,oil,,,,,,,,,,not_assessed,not_assessed,required
+ING-0188,Xanthan Gum,water,,,,,,,,,,not_assessed,not_assessed,required
+ING-0189,Zinc Oxide,dispersed_solid,,,,,,,,,,not_assessed,not_assessed,required
+ING-0190,Zinc PCA,water,,,,,,,,,,not_assessed,not_assessed,required

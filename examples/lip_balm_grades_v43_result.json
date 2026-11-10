@@ -1,0 +1,102 @@
+{
+  "engine_version": "4.3.0",
+  "product_type": "lip_balm",
+  "raw_material_mass_percent": 100.0,
+  "v41_group_validation": null,
+  "primary_groups_raw_material_percent": {
+    "actives": 1.0,
+    "antioxidant": 0.5,
+    "consistency": 15.0,
+    "lipids": 83.5
+  },
+  "known_trade_grade_inci_contributions_percent": {},
+  "trade_grade_unresolved_mass_percent": 0.0,
+  "assessed_ingredient_count": 7,
+  "items_count": 7,
+  "scientific_compatibility_status": "REVIEW_REQUIRED",
+  "regulatory_status": "NOT_ASSESSED",
+  "stability_status": "NOT_TESTED",
+  "manufacturing_approval": false,
+  "issues": [
+    {
+      "code": "PROPERTY_EVIDENCE_MISSING",
+      "severity": "info",
+      "message_vi": "Thiếu hồ sơ khoa học cho một số nguyên liệu; không tự suy ra tính tương thích.",
+      "inci": null,
+      "source_id": null,
+      "details": {
+        "count": 6,
+        "ingredients": [
+          "Cera Alba",
+          "Euphorbia Cerifera Cera",
+          "Simmondsia Chinensis Seed Oil",
+          "Butyrospermum Parkii Butter",
+          "Ricinus Communis Seed Oil",
+          "Tocopherol"
+        ]
+      }
+    },
+    {
+      "code": "PROCESS_TEMP_BELOW_GRADE_MELT_RANGE",
+      "severity": "review",
+      "message_vi": "Nhiệt độ giai đoạn làm chảy hoàn toàn thấp hơn đầu dưới của khoảng nóng chảy grade; cần kiểm tra quy trình.",
+      "inci": "Cera Alba",
+      "grade_id": "S43-G-K8109",
+      "source_id": "S43-KAHL-WAX",
+      "details": {
+        "processing_temp_c": 60.0,
+        "grade_melting_point_c": [
+          61.0,
+          66.0
+        ]
+      }
+    },
+    {
+      "code": "GRADE_ASSAY_COA_NOT_VERIFIED",
+      "severity": "info",
+      "message_vi": "Thông số grade tham chiếu chưa có COA lô để chứng minh hàm lượng thực.",
+      "inci": "Cera Alba",
+      "grade_id": "S43-G-K8109",
+      "source_id": "S43-KAHL-WAX",
+      "details": {}
+    },
+    {
+      "code": "PROCESS_TEMP_BELOW_GRADE_MELT_RANGE",
+      "severity": "review",
+      "message_vi": "Nhiệt độ giai đoạn làm chảy hoàn toàn thấp hơn đầu dưới của khoảng nóng chảy grade; cần kiểm tra quy trình.",
+      "inci": "Euphorbia Cerifera Cera",
+      "grade_id": "S43-G-K2039L",
+      "source_id": "S43-KAHL-WAX",
+      "details": {
+        "processing_temp_c": 60.0,
+        "grade_melting_point_c": [
+          68.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "code": "GRADE_ASSAY_COA_NOT_VERIFIED",
+      "severity": "info",
+      "message_vi": "Thông số grade tham chiếu chưa có COA lô để chứng minh hàm lượng thực.",
+      "inci": "Euphorbia Cerifera Cera",
+      "grade_id": "S43-G-K2039L",
+      "source_id": "S43-KAHL-WAX",
+      "details": {}
+    }
+  ],
+  "v43_grade_evidence": [
+    {
+      "grade_id": "S43-G-K8109",
+      "grade_name": "KahlWax 8109 Yellow Pharma Beeswax",
+      "source_url": "https://www.kahlworld.com/news/download-category/technical-data-sheets/"
+    },
+    {
+      "grade_id": "S43-G-K2039L",
+      "grade_name": "KahlWax 2039L Candelilla",
+      "source_url": "https://www.kahlworld.com/news/download-category/technical-data-sheets/"
+    }
+  ],
+  "v43_observation_count_used": 4,
+  "v43_evidence_assessment": "GRADE_REFERENCES_WITH_GAPS"
+}

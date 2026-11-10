@@ -1,0 +1,695 @@
+{
+  "engine_version": "4.4.0",
+  "scenario_count": 2,
+  "scenarios": [
+    {
+      "scenario_id": "base/claim1:1",
+      "interpretation_summary": [
+        {
+          "basis": "finished_inci",
+          "inci": "Mandelic Acid",
+          "percent": 15
+        },
+        {
+          "basis": "raw_material",
+          "item_id": "pad_grade",
+          "percent": 8
+        }
+      ],
+      "result": {
+        "engine_version": "4.4.0",
+        "status": "FEASIBLE",
+        "claim_interpretations": [
+          {
+            "basis": "finished_inci",
+            "target": "mandelic acid",
+            "value": 15.0,
+            "enforced": true
+          },
+          {
+            "basis": "raw_material",
+            "target": "pad_grade",
+            "value": 8.0,
+            "enforced": true
+          }
+        ],
+        "raw_material_total_percent": 100.0,
+        "items": [
+          {
+            "item_id": "pg",
+            "group_code": "solvent",
+            "grade_id": null,
+            "display_inci": "Propylene Glycol",
+            "percent_example": 30.0,
+            "feasible_interval_percent": [
+              15.0,
+              45.0
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          },
+          {
+            "item_id": "mpd",
+            "group_code": "solvent",
+            "grade_id": null,
+            "display_inci": "Methylpropanediol",
+            "percent_example": 25.0,
+            "feasible_interval_percent": [
+              15.0,
+              45.0
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          },
+          {
+            "item_id": "mandelic",
+            "group_code": "acid",
+            "grade_id": null,
+            "display_inci": "Mandelic Acid",
+            "percent_example": 15.0,
+            "feasible_interval_percent": [
+              15.0,
+              15.0
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          },
+          {
+            "item_id": "aqua",
+            "group_code": "carrier",
+            "grade_id": null,
+            "display_inci": "Aqua",
+            "percent_example": 18.0,
+            "feasible_interval_percent": [
+              0.01,
+              25.0
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          },
+          {
+            "item_id": "pad_grade",
+            "group_code": "active",
+            "grade_id": "HYPOTHETICAL_PAD_30",
+            "display_inci": "Potassium Azeloyl Diglycinate solution",
+            "percent_example": 8.0,
+            "feasible_interval_percent": [
+              8.0,
+              8.0
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          },
+          {
+            "item_id": "tea",
+            "group_code": "pH_adjuster",
+            "grade_id": null,
+            "display_inci": "Triethanolamine",
+            "percent_example": 4.0,
+            "feasible_interval_percent": [
+              0.01,
+              4.0
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          }
+        ],
+        "groups": [
+          {
+            "group_code": "acid",
+            "percent_example": 15.0,
+            "feasible_interval_percent": [
+              15.0,
+              15.0
+            ],
+            "raw_material_count": 1
+          },
+          {
+            "group_code": "active",
+            "percent_example": 8.0,
+            "feasible_interval_percent": [
+              8.0,
+              8.0
+            ],
+            "raw_material_count": 1
+          },
+          {
+            "group_code": "carrier",
+            "percent_example": 18.0,
+            "feasible_interval_percent": [
+              0.01,
+              25.0
+            ],
+            "raw_material_count": 1
+          },
+          {
+            "group_code": "pH_adjuster",
+            "percent_example": 4.0,
+            "feasible_interval_percent": [
+              0.01,
+              4.0
+            ],
+            "raw_material_count": 1
+          },
+          {
+            "group_code": "solvent",
+            "percent_example": 55.0,
+            "feasible_interval_percent": [
+              48.0,
+              76.98
+            ],
+            "raw_material_count": 2
+          }
+        ],
+        "inci_known_contributions": [
+          {
+            "inci": "aqua",
+            "percent_example_known_contribution": 23.6,
+            "feasible_known_contribution_interval_percent": [
+              5.61,
+              30.6
+            ],
+            "basis": "complete_inci"
+          },
+          {
+            "inci": "mandelic acid",
+            "percent_example_known_contribution": 15.0,
+            "feasible_known_contribution_interval_percent": [
+              15.0,
+              15.0
+            ],
+            "basis": "complete_inci"
+          },
+          {
+            "inci": "methylpropanediol",
+            "percent_example_known_contribution": 25.0,
+            "feasible_known_contribution_interval_percent": [
+              15.0,
+              45.0
+            ],
+            "basis": "complete_inci"
+          },
+          {
+            "inci": "potassium azeloyl diglycinate",
+            "percent_example_known_contribution": 2.4,
+            "feasible_known_contribution_interval_percent": [
+              2.4,
+              2.4
+            ],
+            "basis": "complete_inci"
+          },
+          {
+            "inci": "propylene glycol",
+            "percent_example_known_contribution": 30.0,
+            "feasible_known_contribution_interval_percent": [
+              15.0,
+              45.0
+            ],
+            "basis": "complete_inci"
+          },
+          {
+            "inci": "triethanolamine",
+            "percent_example_known_contribution": 4.0,
+            "feasible_known_contribution_interval_percent": [
+              0.01,
+              4.0
+            ],
+            "basis": "complete_inci"
+          }
+        ],
+        "unresolved_composition_percent_example": 0.0,
+        "unresolved_composition_feasible_interval_percent": [
+          0,
+          0
+        ],
+        "fully_resolved_inci": true,
+        "label_order_screening": {
+          "status": "WARNING_ORDER_CONFLICT",
+          "conflicts": [
+            [
+              "Mandelic Acid",
+              "Aqua"
+            ],
+            [
+              "Potassium Azeloyl Diglycinate",
+              "Triethanolamine"
+            ]
+          ],
+          "note": "Chưa xử lý riêng chất màu/ngoại lệ ghi nhãn; chỉ kiểm tra sơ bộ."
+        },
+        "group_range_references": [
+          {
+            "group_code": "solvent",
+            "source": "unmapped",
+            "minimum": null,
+            "maximum": null,
+            "hard": false
+          },
+          {
+            "group_code": "acid",
+            "source": "unmapped",
+            "minimum": null,
+            "maximum": null,
+            "hard": false
+          },
+          {
+            "group_code": "carrier",
+            "source": "unmapped",
+            "minimum": null,
+            "maximum": null,
+            "hard": false
+          },
+          {
+            "group_code": "active",
+            "source": "unmapped",
+            "minimum": null,
+            "maximum": null,
+            "hard": false
+          },
+          {
+            "group_code": "pH_adjuster",
+            "source": "unmapped",
+            "minimum": null,
+            "maximum": null,
+            "hard": false
+          }
+        ],
+        "representative_method": {
+          "mode": "weighted_L1_priors",
+          "user_prior_count": 6,
+          "synthetic_anchor_count": 0,
+          "evidence_status": "ILLUSTRATIVE_ONLY"
+        },
+        "issues": [
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "pg: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "mpd: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "mandelic: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "aqua: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "pad_grade: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "tea: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "RESULT_DEPENDS_ON_ASSUMPTIONS",
+            "severity": "review",
+            "message_vi": "Ít nhất một sơ đồ cấu tử INCI còn giả định hoặc thiếu nguồn chứng thực.",
+            "details": {}
+          },
+          {
+            "code": "LABEL_ORDER_SCREENING_WARNING",
+            "severity": "review",
+            "message_vi": "Nghiệm minh họa không phù hợp thứ tự INCI trên 1% trong nhãn cung cấp.",
+            "details": {}
+          }
+        ],
+        "approved_for_manufacturing": false,
+        "regulatory_status": "NOT_ASSESSED",
+        "stability_status": "NOT_TESTED",
+        "range_interpretation": "Feasible under stated assumptions, NOT a measured or market typical concentration."
+      }
+    },
+    {
+      "scenario_id": "base/claim1:2",
+      "interpretation_summary": [
+        {
+          "basis": "finished_inci",
+          "inci": "Mandelic Acid",
+          "percent": 15
+        },
+        {
+          "basis": "finished_inci",
+          "inci": "Potassium Azeloyl Diglycinate",
+          "percent": 8
+        }
+      ],
+      "result": {
+        "engine_version": "4.4.0",
+        "status": "FEASIBLE",
+        "claim_interpretations": [
+          {
+            "basis": "finished_inci",
+            "target": "mandelic acid",
+            "value": 15.0,
+            "enforced": true
+          },
+          {
+            "basis": "finished_inci",
+            "target": "potassium azeloyl diglycinate",
+            "value": 8.0,
+            "enforced": true
+          }
+        ],
+        "raw_material_total_percent": 100.0,
+        "items": [
+          {
+            "item_id": "pg",
+            "group_code": "solvent",
+            "grade_id": null,
+            "display_inci": "Propylene Glycol",
+            "percent_example": 30.0,
+            "feasible_interval_percent": [
+              15.0,
+              43.31333
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          },
+          {
+            "item_id": "mpd",
+            "group_code": "solvent",
+            "grade_id": null,
+            "display_inci": "Methylpropanediol",
+            "percent_example": 24.32333,
+            "feasible_interval_percent": [
+              15.0,
+              43.31333
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          },
+          {
+            "item_id": "mandelic",
+            "group_code": "acid",
+            "grade_id": null,
+            "display_inci": "Mandelic Acid",
+            "percent_example": 15.0,
+            "feasible_interval_percent": [
+              15.0,
+              15.0
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          },
+          {
+            "item_id": "aqua",
+            "group_code": "carrier",
+            "grade_id": null,
+            "display_inci": "Aqua",
+            "percent_example": 0.01,
+            "feasible_interval_percent": [
+              0.01,
+              25.0
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          },
+          {
+            "item_id": "pad_grade",
+            "group_code": "active",
+            "grade_id": "HYPOTHETICAL_PAD_30",
+            "display_inci": "Potassium Azeloyl Diglycinate solution",
+            "percent_example": 26.66667,
+            "feasible_interval_percent": [
+              26.66667,
+              26.66667
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          },
+          {
+            "item_id": "tea",
+            "group_code": "pH_adjuster",
+            "grade_id": null,
+            "display_inci": "Triethanolamine",
+            "percent_example": 4.0,
+            "feasible_interval_percent": [
+              0.01,
+              4.0
+            ],
+            "composition_status": "user_assumption",
+            "complete_composition": true
+          }
+        ],
+        "groups": [
+          {
+            "group_code": "acid",
+            "percent_example": 15.0,
+            "feasible_interval_percent": [
+              15.0,
+              15.0
+            ],
+            "raw_material_count": 1
+          },
+          {
+            "group_code": "active",
+            "percent_example": 26.66667,
+            "feasible_interval_percent": [
+              26.66667,
+              26.66667
+            ],
+            "raw_material_count": 1
+          },
+          {
+            "group_code": "carrier",
+            "percent_example": 0.01,
+            "feasible_interval_percent": [
+              0.01,
+              25.0
+            ],
+            "raw_material_count": 1
+          },
+          {
+            "group_code": "pH_adjuster",
+            "percent_example": 4.0,
+            "feasible_interval_percent": [
+              0.01,
+              4.0
+            ],
+            "raw_material_count": 1
+          },
+          {
+            "group_code": "solvent",
+            "percent_example": 54.32333,
+            "feasible_interval_percent": [
+              30.0,
+              58.31333
+            ],
+            "raw_material_count": 2
+          }
+        ],
+        "inci_known_contributions": [
+          {
+            "inci": "aqua",
+            "percent_example_known_contribution": 18.67667,
+            "feasible_known_contribution_interval_percent": [
+              18.67667,
+              43.66667
+            ],
+            "basis": "complete_inci"
+          },
+          {
+            "inci": "mandelic acid",
+            "percent_example_known_contribution": 15.0,
+            "feasible_known_contribution_interval_percent": [
+              15.0,
+              15.0
+            ],
+            "basis": "complete_inci"
+          },
+          {
+            "inci": "methylpropanediol",
+            "percent_example_known_contribution": 24.32333,
+            "feasible_known_contribution_interval_percent": [
+              15.0,
+              43.31333
+            ],
+            "basis": "complete_inci"
+          },
+          {
+            "inci": "potassium azeloyl diglycinate",
+            "percent_example_known_contribution": 8.0,
+            "feasible_known_contribution_interval_percent": [
+              8.0,
+              8.0
+            ],
+            "basis": "complete_inci"
+          },
+          {
+            "inci": "propylene glycol",
+            "percent_example_known_contribution": 30.0,
+            "feasible_known_contribution_interval_percent": [
+              15.0,
+              43.31333
+            ],
+            "basis": "complete_inci"
+          },
+          {
+            "inci": "triethanolamine",
+            "percent_example_known_contribution": 4.0,
+            "feasible_known_contribution_interval_percent": [
+              0.01,
+              4.0
+            ],
+            "basis": "complete_inci"
+          }
+        ],
+        "unresolved_composition_percent_example": 0.0,
+        "unresolved_composition_feasible_interval_percent": [
+          0,
+          0
+        ],
+        "fully_resolved_inci": true,
+        "label_order_screening": {
+          "status": "WARNING_ORDER_CONFLICT",
+          "conflicts": [
+            [
+              "Mandelic Acid",
+              "Aqua"
+            ]
+          ],
+          "note": "Chưa xử lý riêng chất màu/ngoại lệ ghi nhãn; chỉ kiểm tra sơ bộ."
+        },
+        "group_range_references": [
+          {
+            "group_code": "solvent",
+            "source": "unmapped",
+            "minimum": null,
+            "maximum": null,
+            "hard": false
+          },
+          {
+            "group_code": "acid",
+            "source": "unmapped",
+            "minimum": null,
+            "maximum": null,
+            "hard": false
+          },
+          {
+            "group_code": "carrier",
+            "source": "unmapped",
+            "minimum": null,
+            "maximum": null,
+            "hard": false
+          },
+          {
+            "group_code": "active",
+            "source": "unmapped",
+            "minimum": null,
+            "maximum": null,
+            "hard": false
+          },
+          {
+            "group_code": "pH_adjuster",
+            "source": "unmapped",
+            "minimum": null,
+            "maximum": null,
+            "hard": false
+          }
+        ],
+        "representative_method": {
+          "mode": "weighted_L1_priors",
+          "user_prior_count": 6,
+          "synthetic_anchor_count": 0,
+          "evidence_status": "ILLUSTRATIVE_ONLY"
+        },
+        "issues": [
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "pg: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "mpd: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "mandelic: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "aqua: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "pad_grade: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "COMPONENT_MODEL_NOT_VERIFIED",
+            "severity": "info",
+            "message_vi": "tea: dữ liệu cấu tử chưa được xác minh theo COA/grade.",
+            "details": {
+              "status": "user_assumption"
+            }
+          },
+          {
+            "code": "RESULT_DEPENDS_ON_ASSUMPTIONS",
+            "severity": "review",
+            "message_vi": "Ít nhất một sơ đồ cấu tử INCI còn giả định hoặc thiếu nguồn chứng thực.",
+            "details": {}
+          },
+          {
+            "code": "LABEL_ORDER_SCREENING_WARNING",
+            "severity": "review",
+            "message_vi": "Nghiệm minh họa không phù hợp thứ tự INCI trên 1% trong nhãn cung cấp.",
+            "details": {}
+          }
+        ],
+        "approved_for_manufacturing": false,
+        "regulatory_status": "NOT_ASSESSED",
+        "stability_status": "NOT_TESTED",
+        "range_interpretation": "Feasible under stated assumptions, NOT a measured or market typical concentration."
+      }
+    }
+  ],
+  "approved_for_manufacturing": false
+}

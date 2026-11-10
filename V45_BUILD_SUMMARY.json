@@ -1,0 +1,24 @@
+{
+  "project": "Formula Intelligence V4.5 — Experimental Validation",
+  "version": "4.5.0",
+  "validation": {
+    "python_api_tests": "72/72 passed",
+    "frontend_build": "BLOCKED_DEPENDENCY_NEXT_MISSING",
+    "postgresql_migration": "NOT_APPLIED",
+    "actual_lab_measurements_included": 0
+  },
+  "demo": {
+    "doe_proposals": 5,
+    "doe_feasible": 5,
+    "laboratory_results": "NOT_MEASURED"
+  },
+  "sources": [
+    "https://www.iso.org/standard/63465.html",
+    "https://www.iso.org/standard/75058.html"
+  ],
+  "safety": {
+    "approved_for_manufacturing": false,
+    "legal_status": "NOT_ASSESSED",
+    "stability_status": "NOT_VALIDATED"
+  }
+}

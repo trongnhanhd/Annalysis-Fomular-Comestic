@@ -1,0 +1,87 @@
+{
+  "engine_version": "4.2.0",
+  "product_type": "Serum nước minh họa",
+  "raw_material_mass_percent": 100.0,
+  "v41_group_validation": null,
+  "primary_groups_raw_material_percent": {
+    "active": 7.0,
+    "b_water": 60.0,
+    "hum": 20.0,
+    "solv": 12.0,
+    "thick": 1.0
+  },
+  "known_trade_grade_inci_contributions_percent": {},
+  "trade_grade_unresolved_mass_percent": 0.0,
+  "assessed_ingredient_count": 7,
+  "items_count": 7,
+  "scientific_compatibility_status": "REVIEW_REQUIRED",
+  "regulatory_status": "NOT_ASSESSED",
+  "stability_status": "NOT_TESTED",
+  "manufacturing_approval": false,
+  "issues": [
+    {
+      "code": "PH_OUTSIDE_SUPPLIER_REFERENCE",
+      "severity": "review",
+      "message_vi": "pH nằm ngoài khoảng tham chiếu của tài liệu grade; yêu cầu thử ổn định.",
+      "inci": "Allantoin",
+      "source_id": "SRC-ALLANTOIN-MERCK",
+      "details": {
+        "pH": 3.2,
+        "min": 4.0,
+        "max": 9.0,
+        "reference_scope": "RonaCare Allantoin supplier grade"
+      }
+    },
+    {
+      "code": "ALLANTOIN_AQUEOUS_SOLUBILITY_SCREEN",
+      "severity": "review",
+      "message_vi": "Allantoin trên lượng nước vượt độ tan tham chiếu ở 25°C; không phải kết luận kết tinh.",
+      "inci": "Allantoin",
+      "source_id": "SRC-ALLANTOIN-MERCK",
+      "details": {
+        "allantoin_relative_to_declared_water_percent": 1.6667,
+        "reference_water_solubility_percent_at_25C": 0.6,
+        "does_not_account_for": "cosolvents, actual continuous phase, heating, kinetics"
+      }
+    },
+    {
+      "code": "OIL_SOLUBLE_IN_AQUEOUS_ONLY_SYSTEM",
+      "severity": "review",
+      "message_vi": "Nguyên liệu tan dầu trong hệ nước chưa xác minh hệ hòa tan/phân tán.",
+      "inci": "Bisabolol",
+      "source_id": "SRC-BASF-PORTFOLIO",
+      "details": {}
+    },
+    {
+      "code": "CARBOMER_GRADE_NEEDS_PROCESS_DATA",
+      "severity": "review",
+      "message_vi": "Carbomer cần xác minh grade, pH, hệ điện giải và mức trung hòa để dự đoán độ nhớt.",
+      "inci": "Carbomer",
+      "source_id": "SRC-CARBOMER-LUBRIZOL",
+      "details": {}
+    },
+    {
+      "code": "PROPERTY_EVIDENCE_MISSING",
+      "severity": "info",
+      "message_vi": "Thiếu hồ sơ khoa học cho một số nguyên liệu; không tự suy ra tính tương thích.",
+      "inci": null,
+      "source_id": null,
+      "details": {
+        "count": 3,
+        "ingredients": [
+          "Aqua",
+          "Glycerin",
+          "Propanediol"
+        ]
+      }
+    },
+    {
+      "code": "PRESERVATION_ASSESSMENT_NEEDED",
+      "severity": "review",
+      "message_vi": "Cần đánh giá bảo vệ vi sinh theo rủi ro và thử nghiệm bảo quản thích hợp; có chất bảo quản không đồng nghĩa đã đạt.",
+      "inci": null,
+      "source_id": "SRC-ISO11930",
+      "details": {}
+    }
+  ]
+}

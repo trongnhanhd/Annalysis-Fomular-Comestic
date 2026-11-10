@@ -1,0 +1,18 @@
+{
+  "version": "4.2.0",
+  "source_baseline": "V4.1",
+  "ingredients": 190,
+  "product_types": 33,
+  "groups": 32,
+  "source_group_rules": 390,
+  "property_profiles": 190,
+  "profiles_with_supplier_evidence": 4,
+  "grade_models": 10,
+  "grades_with_unknown_composition": 10,
+  "rule_definitions": 8,
+  "notes": [
+    "All properties blank by default. Only 4 supplier-documented scoped starter profiles.",
+    "Trade grades require COA for complete INCI and accurate final composition.",
+    "All results are not_assessed for regulatory permission and manufacturing approval."
+  ]
+}

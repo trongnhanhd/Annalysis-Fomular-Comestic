@@ -1,0 +1,5 @@
+
+> formula-intelligence-v44-demo@0.4.4 build
+> next build
+
+sh: 1: next: not found

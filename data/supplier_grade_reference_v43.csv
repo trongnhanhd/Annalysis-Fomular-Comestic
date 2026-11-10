@@ -1,0 +1,12 @@
+﻿grade_id,grade_name,inci_declared,supplier,use_context,source_id,source_url,composition_status,coa_verified,regulatory_approved
+S43-G-K8109,KahlWax 8109 Yellow Pharma Beeswax,Cera Alba,KAHL,lip_care;solid_cosmetic,S43-KAHL-WAX,https://www.kahlworld.com/news/download-category/technical-data-sheets/,single_inci_name_not_assay_verified,false,false
+S43-G-K2039L,KahlWax 2039L Candelilla,Euphorbia Cerifera Cera,KAHL,lip_care;solid_cosmetic,S43-KAHL-WAX,https://www.kahlworld.com/news/download-category/technical-data-sheets/,single_inci_name_not_assay_verified,false,false
+S43-G-K2442L,KahlWax 2442L Carnauba,Copernicia Cerifera Cera,KAHL,lip_care;color_cosmetic,S43-KAHL-2442L,https://www.kahlworld.com/divi_overlay/kahlwax-2442l-carnauba/,single_inci_name_not_assay_verified,false,false
+S43-G-K2811,KahlWax 2811 Rice,Oryza Sativa Bran Cera,KAHL,lip_care;solid_cosmetic,S43-KAHL-PRODUCTS,https://www.kahlworld.com/products/,single_inci_name_not_assay_verified,false,false
+S43-G-K2178,KahlWax 2178 Castor,Hydrogenated Castor Oil,KAHL,solid_cosmetic;emulsion,S43-KAHL-WAX,https://www.kahlworld.com/news/download-category/technical-data-sheets/,single_inci_name_not_assay_verified,false,false
+S43-G-K8139,KahlWax 8139 Organic Beeswax,Cera Alba,KAHL,lip_care;solid_cosmetic,S43-KAHL-WAX,https://www.kahlworld.com/news/download-category/technical-data-sheets/,single_inci_name_not_assay_verified,false,false
+S43-G-C1342,Carbopol 1342 polymer,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,Lubrizol,aqueous;emulsion,S43-LUB-1342,https://www.lubrizol.com/solutions/products/beauty/detail-pages/carbopol-1342-polymer,single_inci_name_not_assay_verified,false,false
+S43-G-NATROSOL,Natrosol hydroxyethylcellulose (family),Hydroxyethylcellulose,Ashland,aqueous;oral_care,S43-ASH-NATROSOL,https://origin-www.ashland.com/industries/personal-and-home-care/oral-care/natrosol-hydroxyethylcellulose,grade_family_not_a_unique_grade,false,false
+S43-G-VCLC,Velsan CLC,Caprylyl Glycol,Clariant,emulsion;aqueous,S43-CLAR-VELSAN,https://www.clariant.com/en/Products/Velsan-CLC,single_inci_name_not_assay_verified,false,false
+S43-G-NIP9010,Nipaguard PE 9010,Phenoxyethanol;Ethylhexylglycerin,Clariant,aqueous;emulsion,S43-CLAR-NIP,https://www.clariant.com/en/products/nipaguard-pe-9010-1,blend_components_qualitative_only,false,false
+S43-G-K4074,KahlBase 4074 Natural Matte Lipstick,Multi-INCI (see composition),KAHL,lipstick,S43-KAHL-PRODUCTS,https://www.kahlworld.com/products/,blend_components_qualitative_only,false,false

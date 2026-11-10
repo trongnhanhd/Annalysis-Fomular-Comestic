@@ -1,0 +1,35 @@
+{
+  "version": "4.5.1",
+  "project": "Formula Intelligence standalone R&D web app",
+  "source": "previous V4.5 attached artifact; no external repository modified",
+  "tested": {
+    "pytest": "76/76 passed",
+    "api_http": "uvicorn HTTP smoke: health OK; DoE 5/5 feasible; POST study; GET studies",
+    "typescript_parser": "4/4 source entrypoints syntax passed",
+    "python_compile": "passed",
+    "archive_integrity": "pending"
+  },
+  "not_tested": [
+    "npm install / Next.js build: registry.npmjs.org EAI_AGAIN (network DNS)",
+    "Real PostgreSQL integration and migration: database service/driver unavailable",
+    "Docker Compose boot: docker CLI unavailable",
+    "Browser E2E Next.js: not run because dependencies unavailable"
+  ],
+  "scientific_integrity": {
+    "claim_based": "simulation only",
+    "real_measurements": "user supplied only",
+    "production_approved": false
+  },
+  "added": [
+    "storage_factory_v451.py",
+    "experimental_repository_postgres_v451.py",
+    "migrations/001_v451_init.sql",
+    "test_integration_v451.py",
+    "frontend/next.config.ts",
+    "compose.yaml",
+    "Dockerfile.api",
+    "frontend/Dockerfile",
+    "README_INTEGRATION_V451.md",
+    "CODEX_HANDOFF_INTEGRATION_V451.md"
+  ]
+}

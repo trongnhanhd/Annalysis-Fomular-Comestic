@@ -1,0 +1,191 @@
+﻿ingredient_id,inci_candidate,property_coverage_v42,target_priorities,scientific_status,verification_required
+ING-0001,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",supplier_grade_fact_available_not_generic,true
+ING-0002,Allantoin,supplier_grade_reference,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0003,Aloe Barbadensis Leaf Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0004,Aloe Barbadensis Leaf Juice,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0005,Aqua,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0006,Argania Spinosa Kernel Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0007,Arginine,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0008,Aroma,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0009,Ascorbic Acid,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0010,Ascorbyl Palmitate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0011,Avena Sativa Kernel Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0012,Azelaic Acid,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0013,BHT,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0014,Bambusa Arundinacea Stem Powder,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0015,Behentrimonium Chloride,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0016,Behentrimonium Methosulfate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0017,Behenyl Alcohol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0018,Bentonite,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0019,Benzyl Alcohol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0020,Betaine,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0021,Bisabolol,supplier_grade_reference,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0022,Butylene Glycol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0023,Butyrospermum Parkii Butter,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0024,CI 77491,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0025,CI 77492,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0026,CI 77499,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0027,Caffeine,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0028,Calamine,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0029,Calendula Officinalis Flower Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0030,Camellia Sinensis Leaf Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0031,Caprylic/Capric Triglyceride,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0032,Caprylyl Glycol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",supplier_grade_fact_available_not_generic,true
+ING-0033,Caprylyl/Capryl Glucoside,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0034,Carbomer,grade_specific_review,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0035,Carrageenan,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0036,Cellulose,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0037,Centella Asiatica Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0038,Cera Alba,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",supplier_grade_fact_available_not_generic,true
+ING-0039,Ceramide NP,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0040,Cetearyl Alcohol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0041,Cetearyl Glucoside,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0042,Cetearyl Olivate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0043,Cetrimonium Chloride,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0044,Cetyl Alcohol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0045,Chamomilla Recutita Flower Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0046,Chamomilla Recutita Flower Water,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0047,Charcoal Powder,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0048,Chlorphenesin,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0049,Citric Acid,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0050,Citrus Aurantium Amara Flower Water,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0051,Citrus Aurantium Dulcis Peel Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0052,Citrus Limon Peel Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0053,Cocamidopropyl Betaine,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0054,Cocamidopropyl Hydroxysultaine,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0055,Coco-Betaine,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0056,Coco-Caprylate/Caprate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0057,Coco-Glucoside,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0058,Cocos Nucifera Fruit Juice,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0059,Cocos Nucifera Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0060,Copernicia Cerifera Cera,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",supplier_grade_fact_available_not_generic,true
+ING-0061,Cucumis Sativus Fruit Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0062,Decyl Glucoside,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0063,Dehydroacetic Acid,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0064,Dicaprylyl Carbonate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0065,Disodium Cocoamphodiacetate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0066,Disodium Cocoyl Glutamate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0067,Disodium EDTA,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0068,Disodium Laureth Sulfosuccinate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0069,Disteardimonium Hectorite,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0070,Distearoylethyl Dimonium Chloride,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0071,Echinacea Purpurea Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0072,Euphorbia Cerifera Cera,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",supplier_grade_fact_available_not_generic,true
+ING-0073,Gluconolactone,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0074,Glycerin,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0075,Glyceryl Caprylate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0076,Glyceryl Oleate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0077,Glyceryl Stearate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0078,Glyceryl Stearate Citrate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0079,Glycyrrhiza Glabra Root Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0080,Hamamelis Virginiana Water,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0081,Helianthus Annuus Seed Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0082,Hydrated Silica,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0083,Hydrogenated Castor Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",supplier_grade_fact_available_not_generic,true
+ING-0084,Hydrogenated Vegetable Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0085,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0086,Hydroxyethyl Urea,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0087,Hydroxyethylcellulose,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",supplier_grade_fact_available_not_generic,true
+ING-0088,Hydroxypropyl Starch Phosphate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0089,Illite,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0090,Kaolin,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0091,Lactic Acid,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0092,Lauryl Glucoside,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0093,Lavandula Angustifolia Flower Water,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0094,Lavandula Angustifolia Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0095,Lecithin,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0096,Macadamia Ternifolia Seed Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0097,Magnesium Sulfate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0098,Mandelic Acid,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0099,Mangifera Indica Seed Butter,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0100,Mentha Piperita Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0101,Mentha Viridis Leaf Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0102,Methylpropanediol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0103,Mica,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0104,Montmorillonite,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0105,Moroccan Lava Clay,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0106,Myristica Fragrans Fruit Wax,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0107,Niacinamide,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0108,Olea Europaea Fruit Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0109,Oryza Sativa Powder,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0110,PEG-100 Stearate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0111,PEG-40 Hydrogenated Castor Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0112,PEG-7 Glyceryl Cocoate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0113,Panax Ginseng Root Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0114,Panthenol,supplier_grade_reference,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0115,Pentylene Glycol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0116,Persea Gratissima Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0117,Phenoxyethanol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",supplier_grade_fact_available_not_generic,true
+ING-0118,Polyacrylate Crosspolymer-6,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0119,Polyglyceryl-10 Laurate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0120,Polyglyceryl-10 Stearate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0121,Polyglyceryl-2 Dipolyhydroxystearate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0122,Polyglyceryl-3 Beeswax,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0123,Polyglyceryl-3 Diisostearate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0124,Polyglyceryl-4 Caprate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0125,Polyglyceryl-6 Distearate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0126,Polyglyceryl-6 Stearate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0127,Polysorbate 20,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0128,Potassium Azeloyl Diglycinate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0129,Potassium Cetyl Phosphate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0130,Potassium Hydroxide,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0131,Potassium Sorbate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0132,Propanediol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0133,Propylene Glycol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0134,Prunus Amygdalus Dulcis Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0135,Prunus Armeniaca Kernel Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0136,Pumice,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0137,Retinol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0138,Ricinus Communis Seed Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0139,Rosa Damascena Flower Water,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0140,Rosmarinus Officinalis Leaf Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0141,Salicylic Acid,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0142,Sclerotium Gum,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0143,Silica Dimethyl Silylate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0144,Simmondsia Chinensis Seed Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0145,Sodium Anisate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0146,Sodium Ascorbyl Phosphate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0147,Sodium Benzoate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0148,Sodium Cetearyl Sulfate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0149,Sodium Chloride,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0150,Sodium Citrate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0151,Sodium Coco-Sulfate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0152,Sodium Cocoamphoacetate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0153,Sodium Cocoyl Glutamate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0154,Sodium Cocoyl Isethionate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0155,Sodium Gluconate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0156,Sodium Hyaluronate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0157,Sodium Hydroxide,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0158,Sodium Lactate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0159,Sodium Lauroyl Lactylate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0160,Sodium Lauroyl Sarcosinate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0161,Sodium Levulinate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0162,Sodium Methyl Cocoyl Taurate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0163,Sodium PCA,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0164,Sodium Phytate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0165,Sodium Polyacryloyldimethyl Taurate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0166,Sodium Stearoyl Glutamate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0167,Sodium Stearoyl Lactylate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0168,Sorbitan Isostearate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0169,Sorbitan Oleate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0170,Sorbitan Olivate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0171,Sorbitol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0172,Squalane,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0173,Stearamidopropyl Dimethylamine,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0174,Stearic Acid,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0175,Sucrose,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0176,Synthetic Fluorphlogopite,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0177,Tetrasodium EDTA,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0178,Theobroma Cacao Seed Butter,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0179,Tin Oxide,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0180,Titanium Dioxide,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0181,Tocopherol,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0182,Tocopheryl Acetate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0183,Triethanolamine,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0184,Trisodium Ethylenediamine Disuccinate,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0185,Urea,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0186,Vanilla Planifolia Fruit Extract,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0187,Vitis Vinifera Seed Oil,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0188,Xanthan Gum,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0189,Zinc Oxide,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true
+ING-0190,Zinc PCA,not_assessed,"COA/TDS/grade, solubility, processing stability, pH scope; legal references",no_new_grade_fact_for_this_inci,true

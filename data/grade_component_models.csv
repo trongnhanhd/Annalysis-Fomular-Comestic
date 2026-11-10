@@ -1,0 +1,9 @@
+﻿grade_id,component_inci,mass_fraction,component_status,source_id
+GRADE-LIP-TOC-50,Tocopherol,0.5,label_or_portfolio_claim,V41-SCREENSHOT-ONLY
+GRADE-LIP-TOC-50,UNRESOLVED_REMAINDER,0.5,not_identified_not_a_real_inci,V41-SCREENSHOT-ONLY
+GRADE-LIP-TOC-70,Tocopherol,0.7,label_or_portfolio_claim,V41-SCREENSHOT-ONLY
+GRADE-LIP-TOC-70,UNRESOLVED_REMAINDER,0.3,not_identified_not_a_real_inci,V41-SCREENSHOT-ONLY
+GRADE-PAN-BASF-75W,Panthenol,0.75,label_or_portfolio_claim,SRC-BASF-PORTFOLIO
+GRADE-PAN-BASF-75W,UNRESOLVED_REMAINDER,0.25,not_identified_not_a_real_inci,SRC-BASF-PORTFOLIO
+GRADE-PAN-BASF-50P,Panthenol,0.50,label_or_portfolio_claim,SRC-BASF-PORTFOLIO
+GRADE-PAN-BASF-50P,UNRESOLVED_REMAINDER,0.5,not_identified_not_a_real_inci,SRC-BASF-PORTFOLIO

@@ -1,0 +1,33 @@
+﻿group_code,group_label_vi,group_type,template_count,candidate_count,screenshot_rule_count,parent_group,aggregation_rule,range_evidence,review_status
+abrasive,Hạt/chất mài mòn,additive_group,4,7,4,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+active,Hoạt chất,additive_group,31,16,31,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+amph_sf,Chất HĐBM lưỡng tính,additive_group,5,5,5,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+anionic_em,Chất nhũ hóa anion,additive_group,6,5,6,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+anionic_sf,Chất HĐBM anion (sơ cấp),additive_group,5,7,5,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+antiox,Chất chống oxy hóa,additive_group,32,7,32,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+b_lip,Nền lipid / nguyên liệu nền,selector_nonadditive,6,6,6,base,count_only_ingredient_mass_not_selector,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+b_oil,Nền dầu/lipid,selector_nonadditive,4,6,4,base,count_only_ingredient_mass_not_selector,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+b_water,Nước / nền nước,selector_nonadditive,23,5,23,base,count_only_ingredient_mass_not_selector,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+buf,Hệ đệm,additive_group,2,4,2,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+cala,Oxide/calamine,additive_group,1,5,1,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+cationic_em,Chất nhũ hóa cation,additive_group,2,5,2,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+chel,Chất tạo phức,additive_group,19,5,19,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+clay,Đất sét/than,additive_group,1,6,1,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+cons,Sáp/chất tạo cấu trúc,additive_group,9,12,9,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+extract,Chiết xuất/phụ gia,additive_group,27,11,27,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+flavour,Hương liệu/tinh dầu,additive_group,32,7,32,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+hum,Humectant/chất hút ẩm,additive_group,24,14,24,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+lip,Dầu và bơ (lipids),additive_group,28,19,28,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+mica,Mica tạo hiệu ứng,additive_group,1,4,1,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+nonionic_hi,Chất nhũ hóa không ion HLB cao,additive_group,11,6,11,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+nonionic_low,Chất nhũ hóa không ion HLB thấp,additive_group,5,6,5,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+nonionic_sf,Chất HĐBM không ion,additive_group,5,6,5,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+oilstab,Chất ổn định tương thích dầu,additive_group,2,5,2,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+pH,Chất điều chỉnh pH q.s.,ph_qs,23,7,23,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+poly_em,Chất nhũ hóa/polymer tạo cấu trúc,additive_group,2,4,2,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+pre_em,Chất nhũ hóa phối trộn sẵn,additive_group,1,6,1,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+pres,Chất bảo quản,additive_group,24,10,24,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+solub,Chất hòa tan/solubilizer,additive_group,4,5,4,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+superfat,Chất làm béo lại/superfat,additive_group,7,5,7,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+thick,Chất tăng độ nhớt,additive_group,19,10,19,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED
+wateralt,Nguồn nước thay thế/hydrosol,additive_group,25,7,25,,count_each_physical_raw_material_once,reference_screenshot_not_legal_limit,REVIEW_REQUIRED

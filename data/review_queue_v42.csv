@@ -1,0 +1,197 @@
+﻿priority,ingredient_id,inci,task,current_status,required_document,is_blocking_for_automatic_approval
+P2,ING-0001,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0003,Aloe Barbadensis Leaf Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0004,Aloe Barbadensis Leaf Juice,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0005,Aqua,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0006,Argania Spinosa Kernel Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0007,Arginine,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0008,Aroma,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0009,Ascorbic Acid,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0010,Ascorbyl Palmitate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0011,Avena Sativa Kernel Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0012,Azelaic Acid,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0013,BHT,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0014,Bambusa Arundinacea Stem Powder,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0015,Behentrimonium Chloride,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0016,Behentrimonium Methosulfate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0017,Behenyl Alcohol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0018,Bentonite,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0019,Benzyl Alcohol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0020,Betaine,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0022,Butylene Glycol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0023,Butyrospermum Parkii Butter,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0024,CI 77491,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0025,CI 77492,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0026,CI 77499,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0027,Caffeine,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0028,Calamine,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0029,Calendula Officinalis Flower Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0030,Camellia Sinensis Leaf Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0031,Caprylic/Capric Triglyceride,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0032,Caprylyl Glycol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0033,Caprylyl/Capryl Glucoside,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0035,Carrageenan,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0036,Cellulose,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0037,Centella Asiatica Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0038,Cera Alba,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0039,Ceramide NP,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0040,Cetearyl Alcohol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0041,Cetearyl Glucoside,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0042,Cetearyl Olivate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0043,Cetrimonium Chloride,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0044,Cetyl Alcohol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0045,Chamomilla Recutita Flower Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0046,Chamomilla Recutita Flower Water,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0047,Charcoal Powder,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0048,Chlorphenesin,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0049,Citric Acid,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0050,Citrus Aurantium Amara Flower Water,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0051,Citrus Aurantium Dulcis Peel Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0052,Citrus Limon Peel Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0053,Cocamidopropyl Betaine,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0054,Cocamidopropyl Hydroxysultaine,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0055,Coco-Betaine,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0056,Coco-Caprylate/Caprate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0057,Coco-Glucoside,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0058,Cocos Nucifera Fruit Juice,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0059,Cocos Nucifera Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0060,Copernicia Cerifera Cera,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0061,Cucumis Sativus Fruit Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0062,Decyl Glucoside,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0063,Dehydroacetic Acid,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0064,Dicaprylyl Carbonate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0065,Disodium Cocoamphodiacetate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0066,Disodium Cocoyl Glutamate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0067,Disodium EDTA,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0068,Disodium Laureth Sulfosuccinate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0069,Disteardimonium Hectorite,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0070,Distearoylethyl Dimonium Chloride,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0071,Echinacea Purpurea Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0072,Euphorbia Cerifera Cera,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0073,Gluconolactone,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0074,Glycerin,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0075,Glyceryl Caprylate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0076,Glyceryl Oleate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0077,Glyceryl Stearate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0078,Glyceryl Stearate Citrate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0079,Glycyrrhiza Glabra Root Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0080,Hamamelis Virginiana Water,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0081,Helianthus Annuus Seed Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0082,Hydrated Silica,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0083,Hydrogenated Castor Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0084,Hydrogenated Vegetable Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0085,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0086,Hydroxyethyl Urea,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0087,Hydroxyethylcellulose,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0088,Hydroxypropyl Starch Phosphate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0089,Illite,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0090,Kaolin,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0091,Lactic Acid,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0092,Lauryl Glucoside,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0093,Lavandula Angustifolia Flower Water,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0094,Lavandula Angustifolia Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0095,Lecithin,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0096,Macadamia Ternifolia Seed Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0097,Magnesium Sulfate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0098,Mandelic Acid,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0099,Mangifera Indica Seed Butter,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0100,Mentha Piperita Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0101,Mentha Viridis Leaf Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0102,Methylpropanediol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0103,Mica,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0104,Montmorillonite,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0105,Moroccan Lava Clay,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0106,Myristica Fragrans Fruit Wax,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0107,Niacinamide,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0108,Olea Europaea Fruit Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0109,Oryza Sativa Powder,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0110,PEG-100 Stearate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0111,PEG-40 Hydrogenated Castor Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0112,PEG-7 Glyceryl Cocoate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0113,Panax Ginseng Root Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0115,Pentylene Glycol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0116,Persea Gratissima Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0117,Phenoxyethanol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0118,Polyacrylate Crosspolymer-6,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0119,Polyglyceryl-10 Laurate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0120,Polyglyceryl-10 Stearate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0121,Polyglyceryl-2 Dipolyhydroxystearate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0122,Polyglyceryl-3 Beeswax,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0123,Polyglyceryl-3 Diisostearate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0124,Polyglyceryl-4 Caprate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0125,Polyglyceryl-6 Distearate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0126,Polyglyceryl-6 Stearate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0127,Polysorbate 20,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0128,Potassium Azeloyl Diglycinate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0129,Potassium Cetyl Phosphate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0130,Potassium Hydroxide,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0131,Potassium Sorbate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0132,Propanediol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0133,Propylene Glycol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0134,Prunus Amygdalus Dulcis Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0135,Prunus Armeniaca Kernel Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0136,Pumice,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0137,Retinol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0138,Ricinus Communis Seed Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0139,Rosa Damascena Flower Water,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0140,Rosmarinus Officinalis Leaf Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0141,Salicylic Acid,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0142,Sclerotium Gum,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0143,Silica Dimethyl Silylate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0144,Simmondsia Chinensis Seed Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0145,Sodium Anisate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0146,Sodium Ascorbyl Phosphate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0147,Sodium Benzoate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0148,Sodium Cetearyl Sulfate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0149,Sodium Chloride,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0150,Sodium Citrate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0151,Sodium Coco-Sulfate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0152,Sodium Cocoamphoacetate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0153,Sodium Cocoyl Glutamate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0154,Sodium Cocoyl Isethionate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0155,Sodium Gluconate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0156,Sodium Hyaluronate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0157,Sodium Hydroxide,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0158,Sodium Lactate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0159,Sodium Lauroyl Lactylate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0160,Sodium Lauroyl Sarcosinate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0161,Sodium Levulinate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0162,Sodium Methyl Cocoyl Taurate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0163,Sodium PCA,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0164,Sodium Phytate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0165,Sodium Polyacryloyldimethyl Taurate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0166,Sodium Stearoyl Glutamate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0167,Sodium Stearoyl Lactylate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0168,Sorbitan Isostearate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0169,Sorbitan Oleate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0170,Sorbitan Olivate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0171,Sorbitol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0172,Squalane,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0173,Stearamidopropyl Dimethylamine,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0174,Stearic Acid,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0175,Sucrose,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0176,Synthetic Fluorphlogopite,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0177,Tetrasodium EDTA,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0178,Theobroma Cacao Seed Butter,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0179,Tin Oxide,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0180,Titanium Dioxide,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0181,Tocopherol,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0182,Tocopheryl Acetate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0183,Triethanolamine,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0184,Trisodium Ethylenediamine Disuccinate,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0185,Urea,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0186,Vanilla Planifolia Fruit Extract,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0187,Vitis Vinifera Seed Oil,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0188,Xanthan Gum,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0189,Zinc Oxide,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P2,ING-0190,Zinc PCA,Verify identity/grade/solubility/pH from supplier docs,NO_PROPERTY_EVIDENCE,TDS/SDS/COA,true
+P1,,Tocopherol d-alpha 50%,Confirm all components and current active assay for trade grade,NEED_COA_AND_FULL_INCI,"Current COA, SDS, complete INCI declaration",true
+P1,,Tocopherol d-alpha 70%,Confirm all components and current active assay for trade grade,NEED_COA_AND_FULL_INCI,"Current COA, SDS, complete INCI declaration",true
+P1,,Tocopherol hỗn hợp,Confirm all components and current active assay for trade grade,NEED_COA_AND_FULL_INCI,"Current COA, SDS, complete INCI declaration",true
+P1,,Cera Bellina wax,Confirm all components and current active assay for trade grade,NEED_COA_AND_FULL_INCI,"Current COA, SDS, complete INCI declaration",true
+P1,,Dehydrasome Plump,Confirm all components and current active assay for trade grade,NEED_COA_AND_FULL_INCI,"Current COA, SDS, complete INCI declaration",true
+P1,,Acai extract in sunflower oil,Confirm all components and current active assay for trade grade,NEED_COA_AND_FULL_INCI,"Current COA, SDS, complete INCI declaration",true
+P1,,Aloe juice dilution 100:1,Confirm all components and current active assay for trade grade,NEED_COA_AND_FULL_INCI,"Current COA, SDS, complete INCI declaration",true
+P1,,Aloe juice dilution 200:1,Confirm all components and current active assay for trade grade,NEED_COA_AND_FULL_INCI,"Current COA, SDS, complete INCI declaration",true
+P1,,D-Panthenol 75 W (supplier portfolio),Confirm all components and current active assay for trade grade,REFERENCE_NEED_CURRENT_COA,"Current COA, SDS, complete INCI declaration",true
+P1,,D-Panthenol 50 P (supplier portfolio),Confirm all components and current active assay for trade grade,REFERENCE_NEED_CURRENT_COA,"Current COA, SDS, complete INCI declaration",true
