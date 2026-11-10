@@ -47,7 +47,11 @@ jobs:
         run: python -m pip install -r requirements.txt -r requirements-postgres.txt 'playwright>=1.50,<2'
       - name: Run backend unit and contract tests
         run: |
-          python -m pytest -q
+          set +e
+          python -m pytest -q -rfE --tb=short 2>&1 | tee /tmp/pytest_v452.log
+          status=${PIPESTATUS[0]}
+          grep -E '^(FAILED|ERROR) ' /tmp/pytest_v452.log | sed 's/^/::error::/'
+          test "$status" -eq 0 || exit "$status"
           python scripts/check_frontend_api_contract_r4.py
       - name: Migrate dedicated PostgreSQL test database
         run: python scripts/apply_test_migrations_v452.py
@@ -100,6 +104,7 @@ jobs:
           path: |
             /tmp/formula_api.log
             /tmp/formula_web.log
+            /tmp/pytest_v452.log
             /tmp/formula-intelligence-browser-smoke/**
           if-no-files-found: ignore
       - name: Upload dependency version report
