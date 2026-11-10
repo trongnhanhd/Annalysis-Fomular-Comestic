@@ -1,0 +1,6 @@
+{
+  "market": "CN",
+  "inci": "Aqua, Glycerin, Niacinamide, Phenoxyethanol",
+  "trace_inci": "Sodium Hyaluronate, Tocopherol",
+  "known_pct": {"Niacinamide": {"value": 5, "source": "Ví dụ giả định: nhãn ghi 5% niacinamide"}}
+}

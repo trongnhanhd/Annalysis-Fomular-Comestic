@@ -1,0 +1,373 @@
+﻿inci_name,market,coverage_status,rule_count,rule_summary,warning
+Phenoxyethanol,EU,HAS_VERIFIED_RULES,1,1% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Phenoxyethanol,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Phenoxyethanol,VN,HAS_VERIFIED_RULES,1,1% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Phenoxyethanol,ASEAN,HAS_VERIFIED_RULES,1,1% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Phenoxyethanol,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Phenoxyethanol,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzoic Acid,EU,HAS_VERIFIED_RULES,3,0.5% [leave_on]; 1.7% [oral_care]; 2.5% [rinse_off_non_oral],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Benzoic Acid,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzoic Acid,VN,HAS_VERIFIED_RULES,3,0.5% [leave_on]; 1.7% [oral_care]; 2.5% [rinse_off_non_oral],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Benzoic Acid,ASEAN,HAS_VERIFIED_RULES,3,0.5% [leave_on]; 1.7% [oral_care]; 2.5% [rinse_off_non_oral],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Benzoic Acid,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzoic Acid,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sodium Benzoate,EU,HAS_VERIFIED_RULES,3,0.5% [leave_on]; 1.7% [oral_care]; 2.5% [rinse_off_non_oral],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Sodium Benzoate,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sodium Benzoate,VN,HAS_VERIFIED_RULES,3,0.5% [leave_on]; 1.7% [oral_care]; 2.5% [rinse_off_non_oral],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Sodium Benzoate,ASEAN,HAS_VERIFIED_RULES,3,0.5% [leave_on]; 1.7% [oral_care]; 2.5% [rinse_off_non_oral],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Sodium Benzoate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sodium Benzoate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Propionic Acid,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Propionic Acid,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Propionic Acid,VN,HAS_VERIFIED_RULES,1,2.0% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Propionic Acid,ASEAN,HAS_VERIFIED_RULES,1,2.0% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Propionic Acid,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Propionic Acid,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Salicylic Acid,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Salicylic Acid,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Salicylic Acid,VN,HAS_VERIFIED_RULES,1,0.5% [cosmetic_except_oral_or_inhalation],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Salicylic Acid,ASEAN,HAS_VERIFIED_RULES,1,0.5% [cosmetic_except_oral_or_inhalation],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Salicylic Acid,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Salicylic Acid,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sorbic Acid,EU,HAS_VERIFIED_RULES,1,0.6% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Sorbic Acid,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sorbic Acid,VN,HAS_VERIFIED_RULES,1,0.6% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Sorbic Acid,ASEAN,HAS_VERIFIED_RULES,1,0.6% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Sorbic Acid,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sorbic Acid,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Potassium Sorbate,EU,HAS_VERIFIED_RULES,1,0.6% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Potassium Sorbate,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Potassium Sorbate,VN,HAS_VERIFIED_RULES,1,0.6% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Potassium Sorbate,ASEAN,HAS_VERIFIED_RULES,1,0.6% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Potassium Sorbate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Potassium Sorbate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylparaben,EU,HAS_VERIFIED_RULES,1,0.4% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Methylparaben,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylparaben,VN,HAS_VERIFIED_RULES,1,0.4% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Methylparaben,ASEAN,HAS_VERIFIED_RULES,1,0.4% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Methylparaben,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylparaben,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylparaben,EU,HAS_VERIFIED_RULES,1,0.4% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylparaben,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylparaben,VN,HAS_VERIFIED_RULES,1,0.4% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylparaben,ASEAN,HAS_VERIFIED_RULES,1,0.4% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylparaben,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylparaben,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Propylparaben,EU,HAS_VERIFIED_RULES,1,0.14% [all_cosmetics_except_infant_nappy_leaveon],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Propylparaben,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Propylparaben,VN,HAS_VERIFIED_RULES,1,0.14% [all_cosmetics_except_infant_nappy_leaveon],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Propylparaben,ASEAN,HAS_VERIFIED_RULES,1,0.14% [all_cosmetics_except_infant_nappy_leaveon],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Propylparaben,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Propylparaben,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Butylparaben,EU,HAS_VERIFIED_RULES,1,0.14% [all_cosmetics_except_infant_nappy_leaveon],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Butylparaben,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Butylparaben,VN,HAS_VERIFIED_RULES,1,0.14% [all_cosmetics_except_infant_nappy_leaveon],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Butylparaben,ASEAN,HAS_VERIFIED_RULES,1,0.14% [all_cosmetics_except_infant_nappy_leaveon],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Butylparaben,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Butylparaben,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dehydroacetic Acid,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dehydroacetic Acid,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dehydroacetic Acid,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dehydroacetic Acid,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dehydroacetic Acid,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dehydroacetic Acid,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sodium Dehydroacetate,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sodium Dehydroacetate,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sodium Dehydroacetate,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sodium Dehydroacetate,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sodium Dehydroacetate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sodium Dehydroacetate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Triclosan,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Triclosan,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Triclosan,VN,HAS_VERIFIED_RULES,2,0.2% [mouthwash]; 0.3% [toothpaste_soap_shampoo_etc],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Triclosan,ASEAN,HAS_VERIFIED_RULES,2,0.2% [mouthwash]; 0.3% [toothpaste_soap_shampoo_etc],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Triclosan,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Triclosan,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Triclocarban,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Triclocarban,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Triclocarban,VN,HAS_VERIFIED_RULES,1,0.2% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Triclocarban,ASEAN,HAS_VERIFIED_RULES,1,0.2% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Triclocarban,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Triclocarban,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chloroxylenol,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chloroxylenol,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chloroxylenol,VN,HAS_VERIFIED_RULES,1,0.5% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Chloroxylenol,ASEAN,HAS_VERIFIED_RULES,1,0.5% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Chloroxylenol,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chloroxylenol,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Imidazolidinyl Urea,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Imidazolidinyl Urea,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Imidazolidinyl Urea,VN,HAS_VERIFIED_RULES,1,0.6% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Imidazolidinyl Urea,ASEAN,HAS_VERIFIED_RULES,1,0.6% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Imidazolidinyl Urea,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Imidazolidinyl Urea,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Climbazole,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Climbazole,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Climbazole,VN,HAS_VERIFIED_RULES,2,0.2% [hair_lotion_or_face_cream]; 0.5% [rinse_off_shampoo_or_conditioner],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Climbazole,ASEAN,HAS_VERIFIED_RULES,2,0.2% [hair_lotion_or_face_cream]; 0.5% [rinse_off_shampoo_or_conditioner],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Climbazole,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Climbazole,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+DMDM Hydantoin,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+DMDM Hydantoin,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+DMDM Hydantoin,VN,HAS_VERIFIED_RULES,1,0.6% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+DMDM Hydantoin,ASEAN,HAS_VERIFIED_RULES,1,0.6% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+DMDM Hydantoin,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+DMDM Hydantoin,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzyl Alcohol,EU,HAS_VERIFIED_RULES,1,1% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Benzyl Alcohol,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzyl Alcohol,VN,HAS_VERIFIED_RULES,1,1% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Benzyl Alcohol,ASEAN,HAS_VERIFIED_RULES,1,1% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Benzyl Alcohol,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzyl Alcohol,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Piroctone Olamine,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Piroctone Olamine,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Piroctone Olamine,VN,HAS_VERIFIED_RULES,2,0.5% [other_cosmetics]; 1% [rinse_off],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Piroctone Olamine,ASEAN,HAS_VERIFIED_RULES,2,0.5% [other_cosmetics]; 1% [rinse_off],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Piroctone Olamine,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Piroctone Olamine,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylisothiazolinone,EU,HAS_VERIFIED_RULES,2,0.0015% [rinse_off]; cấm/chỉ điều kiện khác [leave_on],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Methylisothiazolinone,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylisothiazolinone,VN,HAS_VERIFIED_RULES,2,0.0015% [rinse_off]; cấm/chỉ điều kiện khác [leave_on],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Methylisothiazolinone,ASEAN,HAS_VERIFIED_RULES,2,0.0015% [rinse_off]; cấm/chỉ điều kiện khác [leave_on],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Methylisothiazolinone,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylisothiazolinone,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylchloroisothiazolinone (and) Methylisothiazolinone,EU,HAS_VERIFIED_RULES,2,0.0015% [rinse_off]; cấm/chỉ điều kiện khác [leave_on],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Methylchloroisothiazolinone (and) Methylisothiazolinone,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylchloroisothiazolinone (and) Methylisothiazolinone,VN,HAS_VERIFIED_RULES,2,0.0015% [rinse_off]; cấm/chỉ điều kiện khác [leave_on],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Methylchloroisothiazolinone (and) Methylisothiazolinone,ASEAN,HAS_VERIFIED_RULES,2,0.0015% [rinse_off]; cấm/chỉ điều kiện khác [leave_on],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Methylchloroisothiazolinone (and) Methylisothiazolinone,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylchloroisothiazolinone (and) Methylisothiazolinone,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chlorphenesin,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chlorphenesin,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chlorphenesin,VN,HAS_VERIFIED_RULES,1,0.3% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Chlorphenesin,ASEAN,HAS_VERIFIED_RULES,1,0.3% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Chlorphenesin,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chlorphenesin,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Iodopropynyl Butylcarbamate,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Iodopropynyl Butylcarbamate,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Iodopropynyl Butylcarbamate,VN,HAS_VERIFIED_RULES,3,0.0075% [deodorant_antiperspirant]; 0.01% [leave_on_non_deodorant]; 0.02% [rinse_off],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Iodopropynyl Butylcarbamate,ASEAN,HAS_VERIFIED_RULES,3,0.0075% [deodorant_antiperspirant]; 0.01% [leave_on_non_deodorant]; 0.02% [rinse_off],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Iodopropynyl Butylcarbamate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Iodopropynyl Butylcarbamate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzalkonium Chloride,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzalkonium Chloride,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzalkonium Chloride,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzalkonium Chloride,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzalkonium Chloride,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzalkonium Chloride,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Hydroxyethoxyphenyl Butanone,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Hydroxyethoxyphenyl Butanone,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Hydroxyethoxyphenyl Butanone,VN,HAS_VERIFIED_RULES,1,0.7% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Hydroxyethoxyphenyl Butanone,ASEAN,HAS_VERIFIED_RULES,1,0.7% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Hydroxyethoxyphenyl Butanone,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Hydroxyethoxyphenyl Butanone,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Zinc Pyrithione,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Zinc Pyrithione,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Zinc Pyrithione,VN,HAS_VERIFIED_RULES,2,0.5% [other_rinse_off]; 1% [rinse_off_hair],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Zinc Pyrithione,ASEAN,HAS_VERIFIED_RULES,2,0.5% [other_rinse_off]; 1% [rinse_off_hair],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Zinc Pyrithione,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Zinc Pyrithione,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethyl Lauroyl Arginate HCl,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethyl Lauroyl Arginate HCl,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethyl Lauroyl Arginate HCl,VN,HAS_VERIFIED_RULES,2,0.15% [mouthwash_nonchild_under10]; 0.4% [other_cosmetics_excluding_lip_oral_spray],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethyl Lauroyl Arginate HCl,ASEAN,HAS_VERIFIED_RULES,2,0.15% [mouthwash_nonchild_under10]; 0.4% [other_cosmetics_excluding_lip_oral_spray],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethyl Lauroyl Arginate HCl,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethyl Lauroyl Arginate HCl,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Homosalate,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Homosalate,US,HAS_VERIFIED_RULES,1,15% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Homosalate,VN,HAS_VERIFIED_RULES,1,7.34% [face_except_propellant_spray],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Homosalate,ASEAN,HAS_VERIFIED_RULES,1,7.34% [face_except_propellant_spray],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Homosalate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Homosalate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzophenone-3,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzophenone-3,US,HAS_VERIFIED_RULES,1,6% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Benzophenone-3,VN,HAS_VERIFIED_RULES,3,0.5% [other_cosmetics]; 2.2% [body_including_spray]; 6% [face_hand_lip_non_spray],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Benzophenone-3,ASEAN,HAS_VERIFIED_RULES,3,0.5% [other_cosmetics]; 2.2% [body_including_spray]; 6% [face_hand_lip_non_spray],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Benzophenone-3,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Benzophenone-3,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Avobenzone,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Avobenzone,US,HAS_VERIFIED_RULES,1,3% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Avobenzone,VN,HAS_VERIFIED_RULES,1,5% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Avobenzone,ASEAN,HAS_VERIFIED_RULES,1,5% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Avobenzone,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Avobenzone,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Octocrylene,EU,HAS_VERIFIED_RULES,2,10% [other_cosmetics]; 9% [propellant_spray],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Octocrylene,US,HAS_VERIFIED_RULES,1,10% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Octocrylene,VN,HAS_VERIFIED_RULES,2,10% [other_cosmetics]; 9% [propellant_spray],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Octocrylene,ASEAN,HAS_VERIFIED_RULES,2,10% [other_cosmetics]; 9% [propellant_spray],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Octocrylene,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Octocrylene,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylhexyl Methoxycinnamate,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylhexyl Methoxycinnamate,US,HAS_VERIFIED_RULES,1,7.5% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylhexyl Methoxycinnamate,VN,HAS_VERIFIED_RULES,1,10% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylhexyl Methoxycinnamate,ASEAN,HAS_VERIFIED_RULES,1,10% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylhexyl Methoxycinnamate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylhexyl Methoxycinnamate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylhexyl Salicylate,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylhexyl Salicylate,US,HAS_VERIFIED_RULES,1,5% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylhexyl Salicylate,VN,HAS_VERIFIED_RULES,1,5% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylhexyl Salicylate,ASEAN,HAS_VERIFIED_RULES,1,5% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylhexyl Salicylate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylhexyl Salicylate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylhexyl Triazone,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylhexyl Triazone,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylhexyl Triazone,VN,HAS_VERIFIED_RULES,1,5% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylhexyl Triazone,ASEAN,HAS_VERIFIED_RULES,1,5% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ethylhexyl Triazone,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ethylhexyl Triazone,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Bemotrizinol,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Bemotrizinol,US,HAS_VERIFIED_RULES,1,6% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Bemotrizinol,VN,HAS_VERIFIED_RULES,1,10% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Bemotrizinol,ASEAN,HAS_VERIFIED_RULES,1,10% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Bemotrizinol,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Bemotrizinol,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Titanium Dioxide,EU,HAS_VERIFIED_RULES,1,25% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Titanium Dioxide,US,HAS_VERIFIED_RULES,1,25% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Titanium Dioxide,VN,HAS_VERIFIED_RULES,1,25% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Titanium Dioxide,ASEAN,HAS_VERIFIED_RULES,1,25% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Titanium Dioxide,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Titanium Dioxide,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Zinc Oxide,EU,HAS_VERIFIED_RULES,1,25% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Zinc Oxide,US,HAS_VERIFIED_RULES,1,25% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Zinc Oxide,VN,HAS_VERIFIED_RULES,1,25% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Zinc Oxide,ASEAN,HAS_VERIFIED_RULES,1,25% [sunscreen_or_other_uv_use],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Zinc Oxide,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Zinc Oxide,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Kojic Acid,EU,HAS_VERIFIED_RULES,1,1% [face_or_hand],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Kojic Acid,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Kojic Acid,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Kojic Acid,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Kojic Acid,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Kojic Acid,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinol,EU,HAS_VERIFIED_RULES,2,0.05% [body_lotion]; 0.3% [other_leave_on_or_rinse_off],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Retinol,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinol,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinol,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinol,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinol,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinyl Acetate,EU,HAS_VERIFIED_RULES,2,0.05% [body_lotion]; 0.3% [other_leave_on_or_rinse_off],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Retinyl Acetate,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinyl Acetate,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinyl Acetate,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinyl Acetate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinyl Acetate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinyl Palmitate,EU,HAS_VERIFIED_RULES,2,0.05% [body_lotion]; 0.3% [other_leave_on_or_rinse_off],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Retinyl Palmitate,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinyl Palmitate,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinyl Palmitate,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinyl Palmitate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Retinyl Palmitate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Alpha-Arbutin,EU,HAS_VERIFIED_RULES,2,0.5% [body_lotion]; 2% [face_cream],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Alpha-Arbutin,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Alpha-Arbutin,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Alpha-Arbutin,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Alpha-Arbutin,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Alpha-Arbutin,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Arbutin,EU,HAS_VERIFIED_RULES,1,7% [face_cream],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Arbutin,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Arbutin,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Arbutin,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Arbutin,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Arbutin,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Genistein,EU,HAS_VERIFIED_RULES,1,0.007% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Genistein,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Genistein,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Genistein,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Genistein,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Genistein,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Daidzein,EU,HAS_VERIFIED_RULES,1,0.02% [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Daidzein,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Daidzein,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Daidzein,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Daidzein,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Daidzein,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Azelaic Acid,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Azelaic Acid,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Azelaic Acid,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Azelaic Acid,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Azelaic Acid,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Azelaic Acid,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Hexachlorophene,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Hexachlorophene,US,HAS_VERIFIED_RULES,1,0.1% [non_mucosal_cosmetics_exception],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Hexachlorophene,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Hexachlorophene,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Hexachlorophene,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Hexachlorophene,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Mercury Compounds,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Mercury Compounds,US,HAS_VERIFIED_RULES,2,0.0065% [eye_area_exception]; cấm/chỉ điều kiện khác [other_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Mercury Compounds,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Mercury Compounds,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Mercury Compounds,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Mercury Compounds,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Bithionol,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Bithionol,US,HAS_VERIFIED_RULES,1,cấm/chỉ điều kiện khác [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Bithionol,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Bithionol,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Bithionol,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Bithionol,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chloroform,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chloroform,US,HAS_VERIFIED_RULES,1,cấm/chỉ điều kiện khác [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Chloroform,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chloroform,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chloroform,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Chloroform,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylene Chloride,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylene Chloride,US,HAS_VERIFIED_RULES,1,cấm/chỉ điều kiện khác [all_cosmetics],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Methylene Chloride,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylene Chloride,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylene Chloride,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Methylene Chloride,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Aminobenzoic Acid,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Aminobenzoic Acid,US,HAS_VERIFIED_RULES,2,15% [otc_sunscreen_drug]; cấm/chỉ điều kiện khác [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Aminobenzoic Acid,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Aminobenzoic Acid,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Aminobenzoic Acid,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Aminobenzoic Acid,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Trolamine Salicylate,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Trolamine Salicylate,US,HAS_VERIFIED_RULES,2,12% [otc_sunscreen_drug]; cấm/chỉ điều kiện khác [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Trolamine Salicylate,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Trolamine Salicylate,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Trolamine Salicylate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Trolamine Salicylate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Cinoxate,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Cinoxate,US,HAS_VERIFIED_RULES,1,3% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Cinoxate,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Cinoxate,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Cinoxate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Cinoxate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dioxybenzone,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dioxybenzone,US,HAS_VERIFIED_RULES,1,3% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Dioxybenzone,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dioxybenzone,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dioxybenzone,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Dioxybenzone,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ensulizole,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ensulizole,US,HAS_VERIFIED_RULES,1,4% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Ensulizole,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ensulizole,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ensulizole,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Ensulizole,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Meradimate,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Meradimate,US,HAS_VERIFIED_RULES,1,5% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Meradimate,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Meradimate,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Meradimate,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Meradimate,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Padimate O,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Padimate O,US,HAS_VERIFIED_RULES,1,8% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Padimate O,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Padimate O,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Padimate O,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Padimate O,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sulisobenzone,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sulisobenzone,US,HAS_VERIFIED_RULES,1,10% [otc_sunscreen_drug],Cần xét đúng mục đích/phạm vi; không đồng nghĩa được phép trong mọi sản phẩm.
+Sulisobenzone,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sulisobenzone,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sulisobenzone,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+Sulisobenzone,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+BHT,EU,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+BHT,US,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+BHT,VN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+BHT,ASEAN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+BHT,KR,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.
+BHT,CN,PENDING_VERIFICATION,0,,Không suy ra được cho phép/cấm hoặc % tối đa.

@@ -1,0 +1,132 @@
+{
+  "status": "feasible",
+  "market": "EU",
+  "market_rule": {
+    "rule": "1pct_tail",
+    "threshold": 1.0,
+    "source": "https://www.legislation.gov.uk/eur/2009/1223/article/19/2025-06-02"
+  },
+  "n_ingredients": 7,
+  "feasible_scenarios": 5,
+  "possible_tail_boundaries": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "results": [
+    {
+      "research_evidence": [],
+      "ingredient": "Aqua",
+      "position": 1,
+      "section": "main",
+      "min_pct": 43.5,
+      "max_pct": 90.0,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "constraints": [],
+      "interval_kind": "miền khả thi (LP)"
+    },
+    {
+      "research_evidence": [],
+      "ingredient": "Glycerin",
+      "position": 2,
+      "section": "main",
+      "min_pct": 5.0,
+      "max_pct": 47.5,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "constraints": [],
+      "interval_kind": "miền khả thi (LP)"
+    },
+    {
+      "research_evidence": [],
+      "ingredient": "Niacinamide",
+      "position": 3,
+      "section": "main",
+      "min_pct": 5.0,
+      "max_pct": 5.0,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "constraints": [
+        "Giá trị công bố: 5.0% — Ví dụ giả định: nhãn sản phẩm công bố 5% niacinamide nguyên chất"
+      ],
+      "interval_kind": "miền khả thi (LP)"
+    },
+    {
+      "research_evidence": [],
+      "ingredient": "Panthenol",
+      "position": 4,
+      "section": "main",
+      "min_pct": 0.0,
+      "max_pct": 5.0,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "constraints": [],
+      "interval_kind": "miền khả thi (LP)"
+    },
+    {
+      "research_evidence": [
+        {
+          "min_pct": 0.48,
+          "max_pct": 0.48,
+          "source_url": "https://doi.org/10.1038/s41598-024-69624-9",
+          "outcome": "Đạt tiêu chí bảo quản của nghiên cứu ở hệ số 4; không suy ra hiệu lực với nền serum ví dụ",
+          "study_type": "challenge_test",
+          "matrix": "Sản phẩm nghiên cứu số 4 (không phải công thức serum minh họa)",
+          "ph": "Các mẫu nghiên cứu có pH 4.31–6.19; không khẳng định pH riêng của mẫu số 4",
+          "notes": "",
+          "overlap_with_feasible_pct": [
+            0.48,
+            0.48
+          ],
+          "interpretation": "Chỉ mô tả bằng chứng nghiên cứu; không khẳng định nồng độ trong sản phẩm hay tối ưu chung."
+        }
+      ],
+      "ingredient": "Phenoxyethanol",
+      "position": 5,
+      "section": "main",
+      "min_pct": 0.0,
+      "max_pct": 1.0,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "constraints": [
+        "regulatory: 0.0–1.0% — Ví dụ: EU Annex V entry Phenoxyethanol; phải xác minh loại sản phẩm và ngày hiệu lực"
+      ],
+      "interval_kind": "miền khả thi (LP)"
+    },
+    {
+      "research_evidence": [],
+      "ingredient": "Ethylhexylglycerin",
+      "position": 6,
+      "section": "main",
+      "min_pct": 0.0,
+      "max_pct": 1.0,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "constraints": [],
+      "interval_kind": "miền khả thi (LP)"
+    },
+    {
+      "research_evidence": [],
+      "ingredient": "Sodium Hyaluronate",
+      "position": 7,
+      "section": "main",
+      "min_pct": 0.0,
+      "max_pct": 1.0,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "constraints": [],
+      "interval_kind": "miền khả thi (LP)"
+    }
+  ],
+  "issues": [],
+  "warnings": [
+    "Giới hạn của Phenoxyethanol được nhập thủ công: cần kiểm tra nguồn pháp lý và loại sản phẩm.",
+    "Các khoảng là miền khả thi theo các giả định đã nhập; KHÔNG phải đo nồng độ thực nghiệm hay khoảng tin cậy thống kê.",
+    "Mốc khoa học được ghi riêng, không dùng làm ràng buộc cứng và không thể thay cho challenge test trên thành phẩm.",
+    "Đang giả định danh sách INCI mô tả đủ 100% khối lượng; thành phần được miễn ghi nhãn/không khai báo có thể làm thay đổi kết quả."
+  ],
+  "method": "Linear programming HiGHS; hợp của các miền ứng với mọi ranh giới nhóm <=1% khả thi; đơn vị % w/w"
+}

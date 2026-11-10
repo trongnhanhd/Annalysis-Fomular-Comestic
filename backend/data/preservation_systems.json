@@ -1,0 +1,43 @@
+{
+  "version": "2026-11-09.1",
+  "reviewed_on": "2026-11-09",
+  "scope": "Các hệ được nghiên cứu có kết quả âm tính; chỉ minh họa rằng liều thấp và phối hợp không bảo đảm hiệu lực.",
+  "records": [
+    {
+      "id": "CHEN2024-SYSTEM-02",
+      "system_number": 2,
+      "composition_pct": {"Sodium Benzoate": 0.084, "Potassium Sorbate": 0.079},
+      "outcome": "Không đạt cả tiêu chí vi khuẩn và nấm trong phép thử của nghiên cứu.",
+      "outcome_code": "failed_bacteria_and_fungi",
+      "method": "Thử thách vi sinh theo quy trình tác giả, dựa trên USP có điều chỉnh; không được gắn nhãn ISO 11930",
+      "context": "Một mẫu trong nhóm mỹ phẩm trẻ nhỏ/da nhạy cảm, pH riêng của hệ không được xác nhận từ đoạn công bố tổng quan",
+      "source_url": "https://www.nature.com/articles/s41598-024-69624-9",
+      "doi": "10.1038/s41598-024-69624-9",
+      "notes": "Từng hàm lượng gắn với một nền sản phẩm cụ thể; kết quả không đại diện cho mọi nền hoặc pH."
+    },
+    {
+      "id": "CHEN2024-SYSTEM-03",
+      "system_number": 3,
+      "composition_pct": {"Phenoxyethanol": 0.51, "Caprylyl Glycol": 0.11, "Ethylhexylglycerin": 0.05},
+      "outcome": "Không đạt tiêu chí nấm trong phép thử của nghiên cứu.",
+      "outcome_code": "failed_fungi",
+      "method": "Thử thách vi sinh theo quy trình tác giả, dựa trên USP có điều chỉnh; không được gắn nhãn ISO 11930",
+      "context": "Một mẫu trong nhóm mỹ phẩm trẻ nhỏ/da nhạy cảm, pH và matrix riêng không được xác nhận từ đoạn công bố tổng quan",
+      "source_url": "https://www.nature.com/articles/s41598-024-69624-9",
+      "doi": "10.1038/s41598-024-69624-9",
+      "notes": "Sự thất bại có thể liên quan nền sản phẩm/pH/bao bì; không được khẳng định bản thân tổ hợp luôn thất bại."
+    },
+    {
+      "id": "CHEN2024-SYSTEM-13",
+      "system_number": 13,
+      "composition_pct": {"Pentylene Glycol": 1.34, "Caprylyl Glycol": 0.28, "Phenoxyethanol": 0.19},
+      "outcome": "Không đạt tiêu chí nấm trong phép thử của nghiên cứu.",
+      "outcome_code": "failed_fungi",
+      "method": "Thử thách vi sinh theo quy trình tác giả, dựa trên USP có điều chỉnh; không được gắn nhãn ISO 11930",
+      "context": "Một mẫu trong nhóm mỹ phẩm trẻ nhỏ/da nhạy cảm, pH và matrix riêng không được xác nhận từ đoạn công bố tổng quan",
+      "source_url": "https://www.nature.com/articles/s41598-024-69624-9",
+      "doi": "10.1038/s41598-024-69624-9",
+      "notes": "Không ngoại suy hiệu lực sang các sản phẩm khác hoặc các nồng độ khác."
+    }
+  ]
+}

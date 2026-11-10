@@ -1,0 +1,5 @@
+{
+  "market": "EU",
+  "inci": "Aqua, Glycerin, Niacinamide, Panthenol, Phenoxyethanol",
+  "premixes": [{"name":"Niacinamide solution demo", "usage_pct":10, "composition_pct":{"Niacinamide":50, "Aqua":50}, "exclusively_sourced":["Niacinamide"], "source":"Ví dụ giả định từ COA nguyên liệu"}]
+}

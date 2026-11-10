@@ -1,0 +1,47 @@
+{
+  "version": "2026-11-09.1",
+  "reviewed_on": "2026-11-09",
+  "scope": "Nguồn tham khảo chọn lọc; không phải tổng quan hệ thống hay dữ liệu hiệu chuẩn xác suất",
+  "records": [
+    {
+      "id": "NIA-2004-BISSETT-5PCT", "inci": "Niacinamide", "min_pct": 5.0, "max_pct": 5.0,
+      "category": "clinical_efficacy", "study_type": "randomized_split_face_double_blind_placebo_controlled",
+      "outcome": "Cải thiện một số dấu hiệu lão hóa da so với nền đối chứng sau 12 tuần; không chứng minh 5% là tối ưu chung.",
+      "matrix": "Sản phẩm dưỡng ẩm bôi lưu trên da mặt", "product_type": "leave_on", "population": "50 phụ nữ, 40–60 tuổi", "sample_count": 50,
+      "duration": "12 tuần", "source_url": "https://pubmed.ncbi.nlm.nih.gov/18492135/", "doi": "10.1111/j.1467-2494.2004.00228.x", "pmid": "18492135",
+      "notes": "Một nồng độ được thử nghiệm; không thể suy ra quan hệ đáp ứng theo liều."
+    },
+    {
+      "id": "GLY-2001-LODEN-20PCT", "inci": "Glycerin", "min_pct": 20.0, "max_pct": 20.0,
+      "category": "clinical_efficacy", "study_type": "bilateral_double_blind_placebo_controlled",
+      "outcome": "Tăng chỉ số độ ẩm đo bằng corneometer sau 10 ngày; không ghi nhận cải thiện rõ TEWL hoặc đáp ứng kích ứng SLS trong thử nghiệm.",
+      "matrix": "Kem dưỡng bôi da thường", "product_type": "leave_on", "population": "17 người tình nguyện khỏe mạnh", "sample_count": 17,
+      "duration": "10 ngày", "source_url": "https://pubmed.ncbi.nlm.nih.gov/18498456/", "doi": "10.1046/j.1467-2494.2001.00060.x", "pmid": "18498456",
+      "notes": "Hiệu quả trong nền kem được nghiên cứu, không phải mốc tối ưu cho serum."
+    },
+    {
+      "id": "PHE-2024-CHEN-SENSITIVE-MEASURED", "inci": "Phenoxyethanol", "min_pct": 0.19, "max_pct": 0.29,
+      "category": "measured_market_product", "study_type": "market_sample_analytical_quantification",
+      "outcome": "Khoảng hàm lượng đo được trong 4 sản phẩm cho da nhạy cảm, không phải kết quả thử hiệu lực bảo quản hay khoảng khuyến nghị.",
+      "matrix": "Nhiều sản phẩm dành cho da nhạy cảm tại Trung Quốc", "product_type": "mixed", "population": "4 mẫu có Phenoxyethanol", "sample_count": 4,
+      "duration": "không áp dụng", "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11330455/", "doi": "10.1038/s41598-024-69624-9", "pmid": "39153997",
+      "notes": "Định lượng trên mẫu thương mại (nhóm sensitive skin), không chứng minh tất cả mẫu vượt qua challenge test."
+    },
+    {
+      "id": "CPG-2024-CHEN-SENSITIVE-MEASURED", "inci": "Caprylyl Glycol", "min_pct": 0.19, "max_pct": 0.52,
+      "category": "measured_market_product", "study_type": "market_sample_analytical_quantification",
+      "outcome": "Khoảng hàm lượng đo được trong 8 sản phẩm cho da nhạy cảm, không phải mức bảo quản hiệu quả được chứng minh.",
+      "matrix": "Nhiều sản phẩm dành cho da nhạy cảm tại Trung Quốc", "product_type": "mixed", "population": "8 mẫu có Caprylyl Glycol", "sample_count": 8,
+      "duration": "không áp dụng", "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11330455/", "doi": "10.1038/s41598-024-69624-9", "pmid": "39153997",
+      "notes": "Chất đa chức năng; không tự nhận là chất bảo quản được cấp phép tại mọi quốc gia."
+    },
+    {
+      "id": "EHG-2024-CHEN-SENSITIVE-MEASURED", "inci": "Ethylhexylglycerin", "min_pct": 0.22, "max_pct": 0.51,
+      "category": "measured_market_product", "study_type": "market_sample_analytical_quantification",
+      "outcome": "Khoảng hàm lượng đo được trong 2 sản phẩm cho da nhạy cảm, không phải mốc tối ưu hay mức bảo quản độc lập.",
+      "matrix": "Nhiều sản phẩm dành cho da nhạy cảm tại Trung Quốc", "product_type": "mixed", "population": "2 mẫu có Ethylhexylglycerin", "sample_count": 2,
+      "duration": "không áp dụng", "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11330455/", "doi": "10.1038/s41598-024-69624-9", "pmid": "39153997",
+      "notes": "Thường là thành phần hỗ trợ bảo quản; kết quả khảo sát không thay challenge test."
+    }
+  ]
+}

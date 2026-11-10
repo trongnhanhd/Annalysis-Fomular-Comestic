@@ -1,0 +1,13 @@
+export type Market = 'EU'|'US'|'KR'|'CN'|'VN'|'ASEAN';
+export type Tab = 'overview'|'analyze'|'products'|'research'|'regulatory'|'formulas';
+export type Product = {id:string;name:string;brand:string;market:Market;product_type:string;inci:string;notes:string;created_at:string};
+export type ScientificEvidence = {id?:string;category?:string;title?:string;inci?:string;source_url?:string;doi?:string;pmid?:string;min_pct:number;max_pct:number;matrix_match?:string;matrix?:string;product_type?:string;outcome?:string;source_kind?:string;interpretation?:string};
+export type IngredientResult = {ingredient:string;position:number;section:string;min_pct:number;max_pct:number;estimated_pct:number|null;estimate_status?:string;claims_annotations?:Array<{value_input:number;unit:string;precision:string;converted_pct:number;source:string}>;research_evidence:ScientificEvidence[];regulatory_references:Array<{market:string;max_pct:number;source_url?:string}>;constraints:string[]};
+export type PreservationMatch = {id?:string;system_number:number;full_ingredient_match:boolean;outcome_code:string;outcome?:string;composition_pct?:Record<string,number>;source_url?:string;interpretation?:string};
+export type Analysis = {status:string;market:string;n_ingredients?:number;possible_tail_boundaries?:number[];results?:IngredientResult[];issues?:string[];warnings?:string[];catalog_versions?:Record<string,string>;applied_catalog_limits?:unknown[];preservation_system_matches?:PreservationMatch[];method?:string};
+export type Run = {id:string;product_id:string;status:string;created_at:string;input?:unknown;result?:Analysis};
+export type Research = {id:string;inci:string;title:string;study_type:string;source_url:string;doi:string;min_pct:number|null;max_pct:number|null;product_type:string;matrix:string;notes:string;review_status:string;reviewed_by:string;review_note:string;created_at:string};
+export type CatalogStudy = ScientificEvidence & {inci:string;category:string;min_pct:number;max_pct:number;source_url:string};
+export type LegalRecord = {inci:string;market:string;max_pct:number;intended_use:string;source_url:string;product_type:string};
+export type Formula = {id:string;version:number;name:string;notes?:string;ingredients:Array<{inci:string;pct:number}>;status:string;created_at:string};
+export type Claim = {id:string;inci:string;value:string;unit:'percent'|'ppm'|'mg_per_g';precision:'exact'|'approximate';source:string};

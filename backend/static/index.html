@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="vi">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Phân tích nồng độ INCI | V2.1</title>
+<style>
+:root{font-family:Inter,ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif;color:#17233d;background:#f4f7fb}*{box-sizing:border-box}body{margin:0}header{padding:28px 5%;background:linear-gradient(100deg,#132e4b,#087e82);color:white}h1{font-size:26px;line-height:1.25;margin:5px 0}h2{font-size:17px;margin:0 0 18px}p{margin:8px 0;line-height:1.55}header p{opacity:.86}small,.muted{color:#66758b}.wrap{max-width:1280px;margin:24px auto;padding:0 22px;display:grid;grid-template-columns:minmax(320px,420px) 1fr;gap:20px;align-items:start}.panel{background:#fff;border:1px solid #e1e8f1;border-radius:17px;padding:22px;box-shadow:0 4px 16px #253e6512}.panel+.panel{margin-top:16px}label{font-size:13px;display:block;font-weight:650;margin-bottom:7px}.field{margin-bottom:15px}textarea,input,select{width:100%;font:inherit;color:#21314d;background:#fff;border:1px solid #cbd6e5;border-radius:9px;padding:11px;outline-color:#087e82}textarea{resize:vertical;line-height:1.6}select,input{height:42px}button{font:inherit;cursor:pointer;border:0;border-radius:9px;padding:12px 16px;font-weight:650}button.primary{background:#087e82;color:white;width:100%}button.secondary{color:#126478;background:#e8f5f4}.checkbox{display:flex;align-items:center;gap:9px;line-height:1.45;font-size:13px;font-weight:500}.checkbox input{width:17px;height:17px;margin:0;flex:0 0 auto}.checkpanel{padding:12px;border:1px solid #dce8e8;border-radius:10px;background:#f4fbfa;margin:12px 0}.checkpanel label{margin:0}.ref{display:inline-block;font-size:12px;margin-left:6px}.study{background:#f2f7fc;border-radius:10px;padding:13px;margin:9px 0;font-size:12px;line-height:1.55}.study .title{font-weight:700;margin-bottom:5px}.study .fine{color:#58718a}.labeltag{display:inline-block;border-radius:8px;background:#e8f5f4;color:#136e68;padding:3px 7px;font-weight:700;font-size:11px;margin-right:5px}.row{display:flex;justify-content:space-between;gap:10px;align-items:center}.top{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}.tag{color:#0d7d7b;background:#e1f7f2;border-radius:14px;padding:5px 10px;font-size:12px;font-weight:650}.statrow{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.stat{background:#f5f9fc;border-radius:12px;padding:12px}.stat b{font-size:18px}.stat small{display:block;margin-top:4px}.tablewrap{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:13px}th{text-align:left;background:#f0f5fa;color:#49627e}th,td{padding:12px 10px;border-bottom:1px solid #e7edf5;white-space:nowrap}td:first-child{font-weight:650}.bar{height:9px;border-radius:12px;background:#e7eff4;min-width:120px;position:relative;overflow:hidden}.fill{background:linear-gradient(90deg,#0c918c,#75cabe);height:100%;border-radius:12px}.warn{background:#fff8e9;border-left:3px solid #d28a22;padding:12px;border-radius:7px;font-size:13px;line-height:1.5;margin:9px 0}.error{background:#ffedef;border-left:3px solid #bf3f4c;padding:12px;border-radius:7px}.help{background:#f2f7fc;border-radius:10px;padding:12px;font-size:12px;line-height:1.6}.mono{font-family:ui-monospace,monospace}details{margin-top:14px}summary{cursor:pointer;color:#087e82;font-weight:650}a{color:#087e82}footer{text-align:center;padding:22px;font-size:12px;color:#7c899d}@media(max-width:850px){.wrap{grid-template-columns:1fr;padding:0 12px}.panel{padding:16px}.statrow{grid-template-columns:1fr 1fr 1fr}}@media(max-width:470px){h1{font-size:22px}.statrow{grid-template-columns:1fr 1fr}}
+</style></head>
+<body>
+<header><div style="max-width:1280px;margin:auto"><div style="letter-spacing:.15em;font-size:11px;font-weight:800">COSMETIC FORMULA INTELLIGENCE · V2.1</div><h1>Phân tích ngược nồng độ thành phần INCI</h1><p>6 thị trường · Bộ giải LP · Thư viện nghiên cứu có nguồn · Quy đổi hàm lượng công bố</p></div></header>
+<div class="wrap">
+<section>
+<div class="panel"><div class="top"><h2>Thông tin sản phẩm</h2><button class="secondary" id="demo">Nạp ví dụ</button></div>
+<div class="field"><label for="market">Thị trường ghi nhãn</label><select id="market"><option value="EU">EU – Liên minh châu Âu</option><option value="US">US – Hoa Kỳ</option><option value="KR">KR – Hàn Quốc</option><option value="CN">CN – Trung Quốc</option><option value="VN">VN – Việt Nam</option><option value="ASEAN">ASEAN – khu vực</option></select></div>
+<div class="field"><label for="inci">Danh sách INCI (giữ nguyên thứ tự)</label><textarea id="inci" rows="6" placeholder="Aqua, Glycerin, Niacinamide, ..."></textarea></div>
+<div class="field"><label for="trace">Riêng Trung Quốc: nhóm 其他微量成分 (nếu có)</label><textarea id="trace" rows="2" placeholder="Sodium Hyaluronate, Tocopherol"></textarea></div>
+<div class="field"><label for="known">% đã biết (nhập theo INCI = %)</label><textarea id="known" rows="2" placeholder="Niacinamide = 5"></textarea><small>Chỉ dùng khi có tài liệu xác minh tỷ lệ INCI tinh khiết trong thành phẩm.</small></div>
+<div class="field"><label for="declared">Công bố theo đơn vị (INCI = số ppm | mg/g | %)</label><textarea id="declared" rows="2" placeholder="Niacinamide = 50000 ppm
+Glycerin = ~20 mg/g"></textarea><small>Dấu ~ nghĩa là công bố xấp xỉ, chỉ ghi chú chứ không khóa tỷ lệ. Không nhập phần trăm complex vào đây.</small></div>
+<div class="field"><label for="maxvals">Cận trên đã thẩm định (INCI = %, tùy chọn)</label><textarea id="maxvals" rows="2" placeholder="Phenoxyethanol = 1"></textarea><small>Cận nhập tay do người dùng chịu trách nhiệm xác minh.</small></div>
+<div class="checkpanel"><label class="checkbox"><input type="checkbox" id="catalogEvidence" checked> Đính kèm nghiên cứu có nguồn trong thư viện V2.1</label><small>Gồm thử nghiệm Niacinamide, Glycerin và dữ liệu định lượng chất bảo quản; không thu hẹp khoảng khả thi.</small></div>
+<div class="checkpanel"><label class="checkbox"><input type="checkbox" id="catalogLaw"> Tự áp dụng các giới hạn pháp lý mẫu đã rà soát (tùy chọn)</label><small>Hiện chỉ có mẫu Phenoxyethanol ≤1% khi dùng làm chất bảo quản tại EU. Không suy ra các chất/thị trường khác hợp pháp.</small><div class="field" style="margin-top:10px;margin-bottom:0"><label for="uses">Chức năng phải được xác nhận (INCI = preservative)</label><textarea id="uses" rows="2" placeholder="Phenoxyethanol = preservative"></textarea></div></div>
+<details style="margin-bottom:15px"><summary>Thêm bằng chứng nghiên cứu (JSON, tùy chọn)</summary>
+<div class="field" style="margin-top:10px"><label for="research">Các mốc nghiên cứu không phải ràng buộc</label><textarea id="research" rows="4" placeholder='{"Phenoxyethanol":[{"min_pct":0.48,"max_pct":0.48,"source_url":"https://doi.org/...","outcome":"Đạt trong hệ được nghiên cứu"}]}'></textarea><small>Bằng chứng sẽ được ghi riêng, không tự động thu hẹp khoảng % khả thi.</small></div></details>
+<div class="field"><label for="unlisted">Phần tối đa chưa ghi trên nhãn (%)</label><input id="unlisted" type="number" min="0" max="100" value="0" step="0.01"></div>
+<div class="field"><label for="colors">Chất màu miễn thứ tự (INCI, phân tách bằng dấu phẩy)</label><input id="colors" placeholder="CI 77891, CI 77491"></div>
+<button class="primary" id="analyze">Tính khoảng nồng độ khả thi</button>
+<p class="muted" style="font-size:12px">Phân tích mang tính suy luận định lượng, không chứng nhận chất lượng, an toàn hay sự tuân thủ.</p>
+</div>
+</section>
+<section>
+<div class="panel"><div class="top"><h2>Kết quả phân tích</h2><span class="tag" id="status">Chưa có dữ liệu</span></div>
+<div id="empty" class="help">Dán INCI và chọn thị trường, sau đó bấm “Tính khoảng nồng độ khả thi”. Nồng độ được công bố phải có nguồn và đơn vị rõ ràng. Hệ thống không tự tạo tỷ lệ “tối ưu”.</div>
+<div id="results" hidden>
+<div class="statrow" id="stats"></div>
+<p class="muted" style="font-size:12px;margin:18px 0 10px" id="method"></p>
+<div class="tablewrap"><table><thead><tr><th>Nguyên liệu</th><th>Min (%)</th><th>Max (%)</th><th>Khoảng khả thi</th><th>Số nghiên cứu</th><th>Ghi chú</th></tr></thead><tbody id="tbody"></tbody></table></div>
+<h2 style="margin-top:23px">Nghiên cứu liên quan</h2><div id="evidence" class="muted" style="font-size:12px"></div>
+<h2 style="margin-top:23px">Các hệ bảo quản nghiên cứu</h2><div id="preservation" class="muted" style="font-size:12px"></div>
+<h2 style="margin-top:23px">Giới hạn tham chiếu</h2><div id="laws" class="muted" style="font-size:12px"></div><div id="issues"></div><div id="warnings"></div>
+<details><summary>Xem dữ liệu kết quả JSON</summary><pre id="raw" class="mono" style="white-space:pre-wrap;font-size:11px;max-height:380px;overflow:auto"></pre></details>
+</div></div>
+<div class="panel"><h2>Nguyên tắc diễn giải</h2><p class="help">Khoảng <b>min–max</b> là miền khả thi của một bài toán tối ưu tuyến tính. Không được hiểu là nồng độ đo được, khoảng hiệu quả hay khoảng tin cậy Bayesian. Giá trị nồng độ có xác suất cao chỉ xuất hiện ở giai đoạn hiệu chuẩn mô hình với dữ liệu đủ mạnh.</p><p class="muted" style="font-size:12px">Quy tắc đặc biệt: với nhãn Trung Quốc, phần “其他微量成分” được nhập riêng; không suy đoán thành phần nào ≤0,1% nếu nhãn không đánh dấu.</p></div>
+</section></div><footer>Concentration Inference Engine V2.1 · Mô-đun thử nghiệm độc lập · Tiếng Việt</footer>
+<script>
+const $=id=>document.getElementById(id);
+function parseLines(raw){const data={};for(const line of raw.split(/\n/)){if(!line.trim())continue;const at=line.lastIndexOf('=');if(at<1)throw Error('Dòng sai định dạng: '+line);const name=line.slice(0,at).trim(),value=Number(line.slice(at+1).trim().replace(',','.'));if(!name||!Number.isFinite(value)||value<0||value>100)throw Error('Nồng độ không hợp lệ: '+line);data[name]=value;}return data;}
+function fmt(n){return Number(n).toLocaleString('vi-VN',{maximumFractionDigits:6});}
+function parseDeclared(raw){
+ const out={};for(const line of raw.split(/\n/)){if(!line.trim())continue;
+ const m=line.trim().match(/^(.+?)\s*=\s*(~)?\s*([0-9]+(?:[.,][0-9]+)?)\s*(ppm|mg\/g|%)$/i);
+ if(!m)throw Error('Sai định dạng công bố (ví dụ Niacinamide = 50000 ppm): '+line);
+ out[m[1].trim()]={value:Number(m[3].replace(',','.')),unit:m[4].toLowerCase()==='mg/g'?'mg_per_g':m[4]==='%'?'percent':'ppm',precision:m[2]?'approximate':'exact',basis:'final_product_pure_inci',source:'Công bố do người dùng nhập — cần xác minh chứng từ'};
+ }return out;
+}
+function parseUses(raw){const result={};for(const [k,v] of Object.entries(parseStrings(raw)))result[k]=v.toLowerCase();return result;}
+function parseStrings(raw){const result={};for(const line of raw.split(/\n/)){if(!line.trim())continue;const at=line.indexOf('=');if(at<1)throw Error('Dòng chức năng sai định dạng: '+line);result[line.slice(0,at).trim()]=line.slice(at+1).trim();}return result;}
+$('demo').addEventListener('click',()=>{$('market').value='EU';$('inci').value='Aqua, Glycerin, Niacinamide, Panthenol, Phenoxyethanol, Caprylyl Glycol, Ethylhexylglycerin, Sodium Hyaluronate';$('trace').value='';$('research').value='';$('catalogEvidence').checked=true;$('catalogLaw').checked=true;$('uses').value='Phenoxyethanol = preservative';$('declared').value='';$('known').value='Niacinamide = 5';$('maxvals').value='';$('unlisted').value='0';$('colors').value='';});
+$('analyze').addEventListener('click',async()=>{
+ $('analyze').disabled=true;$('analyze').textContent='Đang giải hệ ràng buộc...';
+ try{
+  const known=Object.fromEntries(Object.entries(parseLines($('known').value)).map(([k,v])=>[k,{value:v,source:'Nhập thủ công từ nhãn/tài liệu — yêu cầu xác minh'}]));
+  const bounds=Object.fromEntries(Object.entries(parseLines($('maxvals').value)).map(([k,v])=>[k,{max_pct:v,min_pct:0,source:'Giới hạn nhập thủ công — cần xác minh',kind:'other'}]));
+  const research_evidence=$('research').value.trim()?JSON.parse($('research').value):{};
+  const declared_concentrations=parseDeclared($('declared').value);
+  const intended_use=parseUses($('uses').value);
+  const payload={market:$('market').value,inci:$('inci').value,trace_inci:$('trace').value,known_pct:known,bounds,research_evidence,declared_concentrations,include_catalog_evidence:$('catalogEvidence').checked,apply_catalog_limits:$('catalogLaw').checked,intended_use,max_unlisted_pct:Number($('unlisted').value),color_additives:$('colors').value.split(',').map(s=>s.trim()).filter(Boolean)};
+  const res=await fetch('/api/v2/analyze',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
+  const obj=await res.json();if(!res.ok)throw Error(typeof obj.detail==='string'?obj.detail:JSON.stringify(obj.detail));
+  $('empty').hidden=true;$('results').hidden=false;$('status').textContent=obj.status==='feasible'?'Có miền khả thi':'Dữ liệu mâu thuẫn';
+  $('stats').innerHTML=`<div class="stat"><b>${obj.n_ingredients||0}</b><small>Thành phần</small></div><div class="stat"><b>${obj.feasible_scenarios||0}</b><small>Kịch bản thứ tự</small></div><div class="stat"><b>${obj.market}</b><small>Thị trường</small></div>`;
+  $('method').textContent=obj.method||'Cần điều chỉnh dữ liệu đầu vào';
+  $('tbody').replaceChildren();
+  for(const item of obj.results||[]){const tr=document.createElement('tr');const cells=[item.ingredient,fmt(item.min_pct),fmt(item.max_pct),'',(item.research_evidence||[]).length,item.section==='trace'?'Nhóm vi lượng CN':'Chưa dự báo % điểm'];cells.forEach((val,i)=>{const td=document.createElement('td');if(i===3){const b=document.createElement('div');b.className='bar';const f=document.createElement('div');f.className='fill';f.style.width=(Math.max(1,Math.min(100,item.max_pct))+'%');b.append(f);td.append(b)}else td.textContent=val;tr.append(td)});$('tbody').append(tr)}
+  $('evidence').replaceChildren();$('laws').replaceChildren();
+  let evidenceCount=0, lawCount=0;
+  for(const item of obj.results||[]){
+   for(const st of item.research_evidence||[]){evidenceCount++;
+    const p=document.createElement('div');p.className='study';
+    const title=document.createElement('div');title.className='title';title.textContent=item.ingredient+' · '+fmt(st.min_pct)+'–'+fmt(st.max_pct)+'%';p.append(title);
+    const category=document.createElement('span');category.className='labeltag';category.textContent=st.category==='measured_market_product'?'Đo mẫu thị trường':st.category==='clinical_efficacy'?'Thử nghiệm hiệu quả':'Dữ liệu nhập thủ công';p.append(category);
+    const msg=document.createElement('div');msg.textContent=st.outcome;p.append(msg);
+    const detail=document.createElement('div');detail.className='fine';detail.textContent='Nền: '+(st.matrix||'chưa rõ')+' · '+(st.matrix_match||'chưa kiểm tra')+' · Giao miền khả thi: '+(st.overlap_with_feasible_pct?st.overlap_with_feasible_pct.map(fmt).join('–')+'%':'Không giao');p.append(detail);
+    if(/^https:\/\//.test(st.source_url)){const a=document.createElement('a');a.href=st.source_url;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Đọc nghiên cứu gốc';a.className='ref';p.append(a)}$('evidence').append(p);
+   }
+   for(const law of item.regulatory_references||[]){lawCount++;
+    const d=document.createElement('div');d.className='study';
+    // Show reference and activation without treating missing database records as permissions.
+    d.textContent=item.ingredient+' · '+law.market+' · ≤'+fmt(law.max_pct)+'% ('+law.intended_use+'). '+((obj.applied_catalog_limits||[]).some(x=>x.id===law.id)?'Đã áp dụng vào ràng buộc.':'Chỉ hiển thị tham khảo, chưa áp dụng.');
+    const a=document.createElement('a');a.href=law.source_url;a.textContent='Mở nguồn pháp lý';a.className='ref';a.target='_blank';a.rel='noopener noreferrer';d.append(a);$('laws').append(d);
+   }
+  }
+  $('preservation').replaceChildren();
+  const systems=(obj.preservation_system_matches||[]).filter(s=>s.full_ingredient_match);
+  for(const system of systems){
+   const d=document.createElement('div');d.className='study';
+   const title=document.createElement('div');title.className='title';title.textContent='Hệ #'+system.system_number+' · '+system.outcome;d.append(title);
+   const details=document.createElement('div');details.textContent=Object.entries(system.composition_pct).map(([k,v])=>k+' '+fmt(v)+'%').join(' · ');d.append(details);
+   const caution=document.createElement('div');caution.className='fine';caution.textContent=system.interpretation;d.append(caution);
+   const a=document.createElement('a');a.href=system.source_url;a.className='ref';a.textContent='Xem nghiên cứu gốc';a.target='_blank';a.rel='noopener noreferrer';d.append(a);
+   $('preservation').append(d);
+  }
+  if(!systems.length)$('preservation').textContent='Chưa tìm thấy hệ bảo quản nghiên cứu có đủ các thành phần tương ứng trong danh sách này.';
+  if(!evidenceCount)$('evidence').textContent='Chưa có nghiên cứu phù hợp trong thư viện bản mẫu.';
+  if(!lawCount)$('laws').textContent='Chưa có bản ghi pháp lý riêng cho thành phần/thị trường đang xét trong kho mẫu. Điều này không có nghĩa là nguyên liệu được phép sử dụng.';
+  for(const [id,items,cls] of [['issues',obj.issues||[],'error'],['warnings',obj.warnings||[],'warn']]){$(id).replaceChildren();items.forEach(x=>{const p=document.createElement('div');p.className=cls;p.textContent=x;$(id).append(p)})}
+  $('raw').textContent=JSON.stringify(obj,null,2);
+ }catch(err){$('empty').hidden=false;$('empty').textContent='Lỗi: '+err.message;$('results').hidden=true;$('status').textContent='Chưa thể phân tích'}finally{$('analyze').disabled=false;$('analyze').textContent='Tính khoảng nồng độ khả thi';}
+});
+</script></body></html>

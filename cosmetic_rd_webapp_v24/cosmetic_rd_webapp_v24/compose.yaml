@@ -1,0 +1,53 @@
+name: cosmetic-rd-intelligence
+services:
+  db:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - cosmetic_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 15
+    restart: unless-stopped
+  api:
+    build: ./backend
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB}
+      WORKSPACE_API_KEY: ${WORKSPACE_API_KEY}
+    ports:
+      - "127.0.0.1:8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+  web:
+    build: ./frontend
+    environment:
+      WEB_ACCESS_TOKEN: ${WEB_ACCESS_TOKEN}
+      INTERNAL_API_URL: http://api:8000
+      WORKSPACE_API_KEY: ${WORKSPACE_API_KEY}
+    ports:
+      - "127.0.0.1:3000:3000"
+    depends_on:
+      - api
+    restart: unless-stopped
+  mcp:
+    profiles: ["mcp"]
+    build: ./backend
+    command: ["uvicorn", "mcp_gateway:app", "--host", "0.0.0.0", "--port", "8001"]
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB}
+      MCP_BEARER_TOKEN: ${MCP_BEARER_TOKEN}
+    ports:
+      - "127.0.0.1:8001:8001"
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+volumes:
+  cosmetic_pgdata:

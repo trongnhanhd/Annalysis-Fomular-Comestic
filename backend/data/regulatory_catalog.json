@@ -1,0 +1,14 @@
+{
+  "version": "2026-11-09.1",
+  "reviewed_on": "2026-11-09",
+  "scope": "Tập quy định mẫu rất nhỏ; không phải cơ sở luật pháp đầy đủ cho 6 thị trường",
+  "records": [
+    {
+      "id": "EU-ANNEX-V-29-PHENOXYETHANOL", "market": "EU", "inci": "Phenoxyethanol", "product_type": "all",
+      "intended_use": "preservative", "max_pct": 1.0, "unit": "% w/w", "reviewed_on": "2026-11-09",
+      "source_url": "https://echa.europa.eu/cosmetics-preservatives/-/legislationlist/details/EU-COSM_PROD-ANX_V_ALLOW_PRESERV-100.004.173-VSK-13A7A6",
+      "authority": "EU Cosmetics Regulation Annex V, entry 29 via ECHA",
+      "notes": "Chỉ tự áp dụng nếu đầu vào xác nhận chức năng preservative và người dùng bật áp dụng; cần rà soát ngày hiệu lực và ngoại lệ theo sản phẩm trước khi sử dụng thương mại."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": "2.3.0",
+  "scope": "frontend-first",
+  "source": "Cosmetic R&D Intelligence V2.2",
+  "verified_original_files": {
+    "backend/engine.py": "4179993fddb2b52aac5751a2c2100955999fdce70042715ad6282c237387eab9",
+    "backend/data/evidence_catalog.json": "ef2ff6b72830ae104b7fc07381d485caf66c5ae67b301b010ecbbef155c7f6e1",
+    "backend/data/regulatory_catalog.json": "a22b11318d90bb6ba1d991ad77d62492b115ee8fa400edde7632866742d226c5",
+    "backend/data/preservation_systems.json": "b7ddb032bf23c8c39015d8e4d94e524587308bbeb5d8e98322088deb85089a2e"
+  },
+  "test_summary": {
+    "backend_pytest": "38/38",
+    "api_contract": "6/6",
+    "tsx_ts_syntax": "14/14",
+    "browser_preview": "desktop/mobile rendered, static preview only"
+  },
+  "caveats": [
+    "Next.js dependencies unavailable locally; production build not verified",
+    "PostgreSQL live and MCP handshake not retested",
+    "Preview screenshots are static HTML/CSS, not live Next.js"
+  ]
+}

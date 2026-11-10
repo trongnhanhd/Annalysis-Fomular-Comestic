@@ -1,0 +1,139 @@
+{
+  "status": "feasible",
+  "market": "VN",
+  "market_rule": {
+    "rule": "1pct_tail",
+    "threshold": 1.0,
+    "source": "https://vanban.chinhphu.vn/default.aspx?docid=99376&pageid=27160"
+  },
+  "n_ingredients": 4,
+  "feasible_scenarios": 4,
+  "possible_tail_boundaries": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "results": [
+    {
+      "research_evidence": [],
+      "ingredient": "Aqua",
+      "position": 1,
+      "section": "main",
+      "min_pct": 25.0,
+      "max_pct": 100.0,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "claims_annotations": [],
+      "regulatory_references": [],
+      "constraints": [],
+      "interval_kind": "miền khả thi (LP)"
+    },
+    {
+      "research_evidence": [
+        {
+          "id": "GLY-2001-LODEN-20PCT",
+          "inci": "Glycerin",
+          "min_pct": 20.0,
+          "max_pct": 20.0,
+          "category": "clinical_efficacy",
+          "study_type": "bilateral_double_blind_placebo_controlled",
+          "outcome": "Tăng chỉ số độ ẩm đo bằng corneometer sau 10 ngày; không ghi nhận cải thiện rõ TEWL hoặc đáp ứng kích ứng SLS trong thử nghiệm.",
+          "matrix": "Kem dưỡng bôi da thường",
+          "product_type": "leave_on",
+          "population": "17 người tình nguyện khỏe mạnh",
+          "sample_count": 17,
+          "duration": "10 ngày",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/18498456/",
+          "doi": "10.1046/j.1467-2494.2001.00060.x",
+          "pmid": "18498456",
+          "notes": "Hiệu quả trong nền kem được nghiên cứu, không phải mốc tối ưu cho serum.",
+          "source_kind": "reviewed_catalog",
+          "overlap_with_feasible_pct": [
+            20.0,
+            20.0
+          ],
+          "matrix_match": "cùng loại sản phẩm sơ bộ",
+          "interpretation": "Dữ liệu nghiên cứu tham khảo; không suy ra % tối ưu, khả năng cao, hay hiệu lực bảo quản của sản phẩm đang xét."
+        }
+      ],
+      "ingredient": "Glycerin",
+      "position": 2,
+      "section": "main",
+      "min_pct": 0.0,
+      "max_pct": 50.0,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "claims_annotations": [],
+      "regulatory_references": [],
+      "constraints": [],
+      "interval_kind": "miền khả thi (LP)"
+    },
+    {
+      "research_evidence": [],
+      "ingredient": "Sodium Benzoate",
+      "position": 3,
+      "section": "main",
+      "min_pct": 0.0,
+      "max_pct": 33.333333,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "claims_annotations": [],
+      "regulatory_references": [],
+      "constraints": [],
+      "interval_kind": "miền khả thi (LP)"
+    },
+    {
+      "research_evidence": [],
+      "ingredient": "Potassium Sorbate",
+      "position": 4,
+      "section": "main",
+      "min_pct": 0.0,
+      "max_pct": 25.0,
+      "estimated_pct": null,
+      "estimate_status": "chưa đủ dữ liệu hiệu chuẩn để dự đoán điểm",
+      "claims_annotations": [],
+      "regulatory_references": [],
+      "constraints": [],
+      "interval_kind": "miền khả thi (LP)"
+    }
+  ],
+  "issues": [],
+  "warnings": [
+    "Các khoảng là miền khả thi theo các giả định đã nhập; KHÔNG phải đo nồng độ thực nghiệm hay khoảng tin cậy thống kê.",
+    "Thư viện nghiên cứu được đính kèm để tham khảo, KHÔNG thay đổi khoảng min–max của bộ giải LP.",
+    "Đang giả định danh sách INCI mô tả đủ 100% khối lượng; thành phần được miễn ghi nhãn/không khai báo có thể làm thay đổi kết quả.",
+    "Không có tỷ lệ công bố hay ràng buộc định lượng bổ sung: khoảng ước tính sẽ rộng. Không đưa ra giá trị có khả năng cao."
+  ],
+  "applied_catalog_limits": [],
+  "catalog_versions": {
+    "evidence": "2026-11-09.1",
+    "regulatory": "2026-11-09.1",
+    "preservation": "2026-11-09.1"
+  },
+  "preservation_system_matches": [
+    {
+      "id": "CHEN2024-SYSTEM-02",
+      "system_number": 2,
+      "composition_pct": {
+        "Sodium Benzoate": 0.084,
+        "Potassium Sorbate": 0.079
+      },
+      "outcome": "Không đạt cả tiêu chí vi khuẩn và nấm trong phép thử của nghiên cứu.",
+      "outcome_code": "failed_bacteria_and_fungi",
+      "method": "Thử thách vi sinh theo quy trình tác giả, dựa trên USP có điều chỉnh; không được gắn nhãn ISO 11930",
+      "context": "Một mẫu trong nhóm mỹ phẩm trẻ nhỏ/da nhạy cảm, pH riêng của hệ không được xác nhận từ đoạn công bố tổng quan",
+      "source_url": "https://www.nature.com/articles/s41598-024-69624-9",
+      "doi": "10.1038/s41598-024-69624-9",
+      "notes": "Từng hàm lượng gắn với một nền sản phẩm cụ thể; kết quả không đại diện cho mọi nền hoặc pH.",
+      "matched_ingredients": [
+        "Sodium Benzoate",
+        "Potassium Sorbate"
+      ],
+      "full_ingredient_match": true,
+      "individual_intervals_contain_studied_values": true,
+      "interpretation": "Chỉ đối chiếu nghiên cứu trên TOÀN HỆ; không chứng minh công thức này đạt/không đạt challenge test, không xác minh tính khả thi đồng thời."
+    }
+  ],
+  "method": "Linear programming HiGHS; hợp của các miền ứng với mọi ranh giới nhóm <=1% khả thi; đơn vị % w/w"
+}

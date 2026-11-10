@@ -1,0 +1,32 @@
+{
+  "market": "EU",
+  "inci": "Aqua, Glycerin, Niacinamide, Panthenol, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate",
+  "known_pct": {
+    "Niacinamide": {
+      "value": 5,
+      "source": "Ví dụ giả định: nhãn sản phẩm công bố 5% niacinamide nguyên chất"
+    }
+  },
+  "bounds": {
+    "Phenoxyethanol": {
+      "min_pct": 0,
+      "max_pct": 1,
+      "source": "Ví dụ: EU Annex V entry Phenoxyethanol; phải xác minh loại sản phẩm và ngày hiệu lực",
+      "kind": "regulatory"
+    }
+  },
+  "max_unlisted_pct": 0,
+  "research_evidence": {
+    "Phenoxyethanol": [
+      {
+        "min_pct": 0.48,
+        "max_pct": 0.48,
+        "source_url": "https://doi.org/10.1038/s41598-024-69624-9",
+        "outcome": "Đạt tiêu chí bảo quản của nghiên cứu ở hệ số 4; không suy ra hiệu lực với nền serum ví dụ",
+        "study_type": "challenge_test",
+        "matrix": "Sản phẩm nghiên cứu số 4 (không phải công thức serum minh họa)",
+        "ph": "Các mẫu nghiên cứu có pH 4.31–6.19; không khẳng định pH riêng của mẫu số 4"
+      }
+    ]
+  }
+}

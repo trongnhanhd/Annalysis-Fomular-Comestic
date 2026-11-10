@@ -1,0 +1,16 @@
+{
+  "market": "EU",
+  "inci": "Aqua, Glycerin, Niacinamide, Panthenol, Phenoxyethanol, Caprylyl Glycol, Ethylhexylglycerin, Sodium Hyaluronate",
+  "product_type": "leave_on",
+  "known_pct": {
+    "Niacinamide": {
+      "value": 5,
+      "source": "Ví dụ: công bố 5% Niacinamide tinh khiết trong thành phẩm"
+    }
+  },
+  "include_catalog_evidence": true,
+  "apply_catalog_limits": true,
+  "intended_use": {
+    "Phenoxyethanol": "preservative"
+  }
+}
